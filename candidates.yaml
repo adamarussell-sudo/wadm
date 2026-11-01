@@ -1,0 +1,21 @@
+# Fresh wildcards, one added per month in this order.
+# Literature, myth and lore, and music, taking turns.
+# Reorder, delete or add your own. Same fields as shows.yaml.
+
+candidates:
+  - name: A History of Rock Music in 500 Songs
+  - name: Lore
+    tags: [night]
+  - name: Backlisted
+  - name: Song Exploder
+  - name: Our Fake History
+  - name: "The New Yorker: Fiction"
+  - name: Switched On Pop
+  - name: The Folklore Podcast
+    tags: [night]
+  - name: The History of Literature
+  - name: The Classic Tales Podcast
+    tags: [night]
+  - name: Spooked
+    tags: [night, night_only]
+  - name: Broken Record

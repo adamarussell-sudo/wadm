@@ -1,0 +1,157 @@
+# WADM roster: every show the station can play.
+#
+# tier:    love      plays about three times as often as fine
+#          fine      capped at 2 plays a week
+#          noise     low-rotation filler, at most 1 play a week
+#          wildcard  new shows on trial; they only play in the wildcard slot
+#                    (about every fifth play) and the late-night slots
+#
+# tags:    mystery     fills the first late-night slot, every night
+#          night       fills the second late-night slot
+#          night_only  never plays in daytime
+#
+# apple_id and feed are optional. The station looks up the feed address
+# from Apple by ID, or by name if there's no ID, and remembers it.
+#
+# To move a show, change its tier and save. To drop one, delete it.
+
+shows:
+  # ---- Love ----------------------------------------------------------------
+  - name: The Mortise & Tenon Podcast
+    tier: love
+    apple_id: 1306454309
+  - name: "Picture This: Photography Podcast"
+    tier: love
+    apple_id: 1078466875
+  - name: CBS Radio Mystery Theater
+    tier: love
+    apple_id: 1520763407
+    tags: [mystery, night_only]
+  - name: CBS Radio Mystery Theater | Old Time Radio
+    tier: love
+    apple_id: 1476944546
+    tags: [mystery, night_only]
+  - name: The Best of Car Talk
+    tier: love
+    apple_id: 253191823
+    feed: https://feeds.npr.org/510208/podcast.xml
+  - name: Conan O'Brien Needs A Friend
+    tier: love
+    apple_id: 1438054347
+  - name: SmartLess
+    tier: love
+    apple_id: 1521578868
+  - name: Freakonomics Radio
+    tier: love
+    apple_id: 354668519
+  - name: Planet Money
+    tier: love
+    apple_id: 290783428
+  - name: Philosophize This!
+    tier: love
+    apple_id: 659155419
+  - name: 60 Songs That Explain the '90s
+    tier: love
+    apple_id: 1635211340
+
+  # ---- Fine ----------------------------------------------------------------
+  - name: ShopNotes Podcast
+    tier: fine
+    apple_id: 1494711931
+  - name: Shop Talk Live - Fine Woodworking
+    tier: fine
+  - name: Wood Talk | Woodworking
+    tier: fine
+  - name: Everyday Woodworking
+    tier: fine
+    apple_id: 1549789559
+  - name: The Adam and Dr. Drew Show
+    tier: fine
+    apple_id: 584543823
+  - name: The Diary Of A CEO with Steven Bartlett
+    tier: fine
+    apple_id: 1291423644
+  - name: Modern Wisdom
+    tier: fine
+    apple_id: 1347973549
+  - name: The Cal Newport Show
+    tier: fine
+    apple_id: 1515786216
+  - name: PsycHacks
+    tier: fine
+    apple_id: 1578558325
+  - name: TRIGGERnometry
+    tier: fine
+    apple_id: 1375568988
+  - name: Order of Man
+    tier: fine
+    apple_id: 979752171
+  - name: 99% Invisible
+    tier: fine
+
+  # ---- Noise (low-rotation filler) -----------------------------------------
+  - name: I Dream of Cameras
+    tier: noise
+    apple_id: 1644625705
+  - name: The Art of Photography
+    tier: noise
+  - name: The Magnus Archives
+    tier: noise
+    apple_id: 1095138637
+  - name: "Sawbones: A Marital Tour of Misguided Medicine"
+    tier: noise
+    apple_id: 665149280
+  - name: Crime Junkie
+    tier: noise
+    apple_id: 1322200189
+  - name: Small Town Murder
+    tier: noise
+    apple_id: 1194755213
+  - name: Anatomy of Murder
+    tier: noise
+    apple_id: 1532894981
+  - name: CounterClock
+    tier: noise
+    apple_id: 1489482036
+  - name: Scamtown
+    tier: noise
+    apple_id: 1759446975
+  - name: Reasonable Doubt
+    tier: noise
+    apple_id: 1022539239
+  - name: The Journal.
+    tier: noise
+    apple_id: 1469394914
+  - name: WSJ Your Money Briefing
+    tier: noise
+  - name: The Book Club | PragerU
+    tier: noise
+    apple_id: 1495731488
+
+  # ---- Wildcards (on trial) ------------------------------------------------
+  - name: In Our Time
+    tier: wildcard
+    apple_id: 73330895
+  - name: Overdue
+    tier: wildcard
+    apple_id: 602003021
+    feed: https://rss.art19.com/overdue
+  - name: Selected Shorts
+    tier: wildcard
+    apple_id: 253191824
+    tags: [night]
+  - name: Myths and Legends
+    tier: wildcard
+    apple_id: 990897842
+    feed: https://audioboom.com/channels/5094626.rss
+  - name: The Best of Coast to Coast AM
+    tier: wildcard
+    tags: [night, night_only]
+  - name: Strong Songs
+    tier: wildcard
+    apple_id: 1443417194
+  - name: "Cocaine & Rhinestones: The History of Country Music"
+    tier: wildcard
+  - name: Hit Parade
+    tier: wildcard
+    apple_id: 1291058235

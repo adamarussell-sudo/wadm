@@ -1,0 +1,100 @@
+# WADM station settings.
+
+name: WADM
+tagline: Radio that knows what you like. Dayton, Ohio.
+timezone: America/New_York
+
+# Two blocks a day. Each block adds this many episodes to the feed.
+# The evening block ends with the late-night slots.
+blocks:
+  am:
+    slots: 5
+  pm:
+    slots: 5
+    night_slots: [mystery, night]   # slot tags, in airing order
+
+tiers:
+  love:     {weight: 3,    max_per_week: 4}
+  fine:     {weight: 1,    max_per_week: 2}
+  noise:    {weight: 0.25, max_per_week: 1}
+  wildcard: {weight: 1,    max_per_week: 3}
+
+wildcard_every: 5          # every fifth daytime play is a wildcard
+fresh_days: 10             # a new episode this recent airs before archive picks
+no_repeat_days: 365        # an archive episode won't re-air for a year
+min_minutes: 8             # skip trailers, promos and 2-minute teasers
+keep_days: 4               # the feed only holds the last few days
+
+# Votes come from the "More like this / Less like this" links in each
+# episode's show notes.
+votes:
+  step: 0.25               # each net vote moves a show's weight 25%
+  min_multiplier: 0.25
+  max_multiplier: 2.0
+  promote_wildcard_after_more: 2
+  retire_wildcard_after_less: 3
+
+# One new wildcard joins the pool on the first run of each month,
+# taken in order from candidates.yaml.
+monthly_wildcard: true
+
+# The bouncer checks every episode before it airs.
+bouncer:
+  rule: >-
+    No extreme political content and no identity content. Bounce an episode
+    whose main subject is partisan politics, elections, politicians,
+    culture-war fights or identity politics, from any side. Politics or
+    groups of people coming up in passing, or as history, myth, literature,
+    music, science or true crime, is fine.
+  # With an ANTHROPIC_API_KEY secret set, Claude reads each episode's title
+  # and show notes and decides. Without one, the keyword lists below decide.
+  model: claude-haiku-5-5
+  api_version: "2023-06-01"
+  # Any one of these in a title or show notes bounces the episode.
+  strong_words:
+    - election
+    - elections
+    - midterm
+    - midterms
+    - campaign trail
+    - partisan
+    - trump
+    - biden
+    - kamala harris
+    - jd vance
+    - democrats
+    - republicans
+    - gop
+    - maga
+    - woke
+    - anti-woke
+    - culture war
+    - culture wars
+    - identity politics
+    - dei
+    - pronouns
+    - gender ideology
+    - critical race theory
+  # Two different ones of these together bounce the episode.
+  soft_words:
+    - politics
+    - political
+    - congress
+    - senate
+    - supreme court
+    - white house
+    - immigration
+    - abortion
+    - racism
+    - privilege
+    - patriarchy
+    - transgender
+    - liberal
+    - liberals
+    - conservative
+    - conservatives
+    - left-wing
+    - right-wing
+    - progressive
+    - far right
+    - far left
