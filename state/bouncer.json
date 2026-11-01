@@ -1,0 +1,42 @@
+{
+ "in-our-time|urn:bbc:podcast:m00325cd": {
+  "at": "2026-11-01T15:33:27.683229+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "In Our Time",
+  "title": "Casablanca",
+  "verdict": "air"
+ },
+ "philosophize-this|03349722-d226-11f1-b097-87c1a9716dc2": {
+  "at": "2026-11-01T15:33:27.683229+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #253 ... The Philosophy of Alan Watts - What Am I?",
+  "verdict": "air"
+ },
+ "picture-this-photography-podcast|c5b797df-8e00-451e-b91e-925f93e64991": {
+  "at": "2026-11-01T15:33:27.683229+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "Why are all cameras Japanese?",
+  "verdict": "air"
+ },
+ "smartless|8e26ceb2-50a2-46c5-8680-8923ef301453": {
+  "at": "2026-11-01T15:33:27.683229+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "STAYING ALIVE: Sean Hayes!",
+  "verdict": "air"
+ },
+ "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2022217393": {
+  "at": "2026-11-01T15:33:27.683229+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Mortise & Tenon Podcast",
+  "title": "71 – Finding Balance",
+  "verdict": "air"
+ }
+}

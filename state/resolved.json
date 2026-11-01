@@ -1,0 +1,42 @@
+{
+ "in-our-time": {
+  "apple_id": 73330895,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/12/e7/f312e703-b626-0091-5bdf-73d79cce25c5/mza_16900938594910783199.jpg/600x600bb.jpg",
+  "artist": "BBC Radio 4",
+  "checked": "2026-11-01T15:33:27.683229+00:00",
+  "feed": "https://podcasts.files.bbci.co.uk/b006qykl.rss",
+  "name": "In Our Time"
+ },
+ "philosophize-this": {
+  "apple_id": 659155419,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
+  "artist": "Stephen West",
+  "checked": "2026-11-01T15:33:27.683229+00:00",
+  "feed": "https://feeds.megaphone.fm/QCD6036500916",
+  "name": "Philosophize This!"
+ },
+ "picture-this-photography-podcast": {
+  "apple_id": 1078466875,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/37/a0/d1/37a0d1d0-d72f-8caa-8e91-4da01355063b/mza_3463114404566088510.jpg/600x600bb.jpg",
+  "artist": "Tony Northrup",
+  "checked": "2026-11-01T15:33:27.683229+00:00",
+  "feed": "https://anchor.fm/s/ffb15c60/podcast/rss",
+  "name": "Picture This: Photography Podcast"
+ },
+ "smartless": {
+  "apple_id": 1521578868,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
+  "artist": "Jason Bateman, Sean Hayes, Will Arnett",
+  "checked": "2026-11-01T15:33:27.683229+00:00",
+  "feed": "https://feeds.simplecast.com/hNaFxXpO",
+  "name": "SmartLess"
+ },
+ "the-mortise-tenon-podcast": {
+  "apple_id": 1306454309,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c1/0d/f7/c10df7d3-860b-9e38-6908-d81bf01218f9/mza_1298549746918786445.jpg/600x600bb.jpg",
+  "artist": "Mortise & Tenon Magazine",
+  "checked": "2026-11-01T15:33:27.683229+00:00",
+  "feed": "https://feeds.soundcloud.com/users/soundcloud:users:256482747/sounds.rss",
+  "name": "The Mortise & Tenon Podcast"
+ }
+}
