@@ -1,4 +1,12 @@
 {
+ "cbs-radio-mystery-theater-old-time-radio": {
+  "apple_id": 1476944546,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/dc/ab/d7dcabe7-5ff2-6b71-e9ed-56ae68cf3847/mza_7160590877994785608.png/600x600bb.jpg",
+  "artist": "OTR Gold",
+  "checked": "2026-11-01T21:40:38.438238+00:00",
+  "feed": "https://feeds.megaphone.fm/VKRX3013755423",
+  "name": "CBS Radio Mystery Theater | Old Time Radio"
+ },
  "in-our-time": {
   "apple_id": 73330895,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/12/e7/f312e703-b626-0091-5bdf-73d79cce25c5/mza_16900938594910783199.jpg/600x600bb.jpg",
@@ -6,6 +14,14 @@
   "checked": "2026-11-01T15:33:27.683229+00:00",
   "feed": "https://podcasts.files.bbci.co.uk/b006qykl.rss",
   "name": "In Our Time"
+ },
+ "modern-wisdom": {
+  "apple_id": 1347973549,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/600x600bb.jpg",
+  "artist": "Chris Williamson",
+  "checked": "2026-11-01T21:40:38.438238+00:00",
+  "feed": "https://feeds.megaphone.fm/SIXMSB5088139739",
+  "name": "Modern Wisdom"
  },
  "philosophize-this": {
   "apple_id": 659155419,
@@ -23,6 +39,14 @@
   "feed": "https://anchor.fm/s/ffb15c60/podcast/rss",
   "name": "Picture This: Photography Podcast"
  },
+ "shop-talk-live-fine-woodworking": {
+  "apple_id": 508943027,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/1f/ea/eb1feaf2-3356-a81b-b589-980f7f9a3107/mza_4940064301473067456.jpg/600x600bb.jpg",
+  "artist": "FineWoodworking.com",
+  "checked": "2026-11-01T21:40:38.438238+00:00",
+  "feed": "https://rss.libsyn.com/shows/39488/destinations/113998.xml",
+  "name": "Shop Talk Live - Fine Woodworking"
+ },
  "smartless": {
   "apple_id": 1521578868,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/600x600bb.jpg",
@@ -31,6 +55,14 @@
   "feed": "https://feeds.simplecast.com/hNaFxXpO",
   "name": "SmartLess"
  },
+ "the-best-of-coast-to-coast-am": {
+  "apple_id": 1206175991,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/2c/86/4e/2c864e7c-beb9-8088-b0cf-919131a8bec2/mza_11913273163357553802.jpg/600x600bb.jpg",
+  "artist": "iHeartPodcasts and Coast to Coast AM",
+  "checked": "2026-11-01T21:40:38.438238+00:00",
+  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
+  "name": "The Best of Coast to Coast AM"
+ },
  "the-mortise-tenon-podcast": {
   "apple_id": 1306454309,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c1/0d/f7/c10df7d3-860b-9e38-6908-d81bf01218f9/mza_1298549746918786445.jpg/600x600bb.jpg",
@@ -38,5 +70,13 @@
   "checked": "2026-11-01T15:33:27.683229+00:00",
   "feed": "https://feeds.soundcloud.com/users/soundcloud:users:256482747/sounds.rss",
   "name": "The Mortise & Tenon Podcast"
+ },
+ "wood-talk-woodworking": {
+  "apple_id": 251471480,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/77/34/037734a5-38ac-d844-4d1e-f25fb7bfb11f/mza_406931835671098101.jpeg/600x600bb.jpg",
+  "artist": "The Wood Whisperer",
+  "checked": "2026-11-01T21:40:38.438238+00:00",
+  "feed": "https://feeds.acast.com/public/shows/65a70f971a69290016a72737",
+  "name": "Wood Talk | Woodworking"
  }
 }

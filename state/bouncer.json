@@ -1,10 +1,26 @@
 {
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
+  "at": "2026-11-01T21:40:38.438238+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0852 | \"Dr. Jekyll and Mrs. Hyde\"",
+  "verdict": "air"
+ },
  "in-our-time|urn:bbc:podcast:m00325cd": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "In Our Time",
   "title": "Casablanca",
+  "verdict": "air"
+ },
+ "modern-wisdom|08220162-2c76-11f1-89ce-77c6815fa6ce": {
+  "at": "2026-11-01T21:40:38.438238+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Modern Wisdom",
+  "title": "Expelled, Arrested & Somehow Winning At Life - James Smith - #1170",
   "verdict": "air"
  },
  "philosophize-this|03349722-d226-11f1-b097-87c1a9716dc2": {
@@ -23,6 +39,14 @@
   "title": "Why are all cameras Japanese?",
   "verdict": "air"
  },
+ "shop-talk-live-fine-woodworking|7faa715c-6a37-4afa-9dce-963f46959f84": {
+  "at": "2026-11-01T21:40:38.438238+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Shop Talk Live - Fine Woodworking",
+  "title": "STL378: The Tweezer Man Cometh",
+  "verdict": "air"
+ },
  "smartless|8e26ceb2-50a2-46c5-8680-8923ef301453": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
@@ -31,12 +55,28 @@
   "title": "STAYING ALIVE: Sean Hayes!",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
+  "at": "2026-11-01T21:40:38.438238+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Witchcraft - Best of Coast to Coast AM - 10/31/26",
+  "verdict": "air"
+ },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2022217393": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "The Mortise & Tenon Podcast",
   "title": "71 – Finding Balance",
+  "verdict": "air"
+ },
+ "wood-talk-woodworking|68d4144cd5de959dc433f2d7": {
+  "at": "2026-11-01T21:40:38.438238+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Wood Talk | Woodworking",
+  "title": "When Possible, Complicate It! - Wood Talk 591",
   "verdict": "air"
  }
 }
