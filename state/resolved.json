@@ -1,4 +1,12 @@
 {
+ "cbs-radio-mystery-theater": {
+  "apple_id": 1520763407,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/48/cf/9348cfd5-76b6-d603-f6aa-653f5d93fff6/mza_3554305780871592294.jpg/600x600bb.jpg",
+  "artist": "Entertainment Radio",
+  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "feed": "https://www.spreaker.com/show/5370385/episodes/feed",
+  "name": "CBS Radio Mystery Theater"
+ },
  "cbs-radio-mystery-theater-old-time-radio": {
   "apple_id": 1476944546,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d7/dc/ab/d7dcabe7-5ff2-6b71-e9ed-56ae68cf3847/mza_7160590877994785608.png/600x600bb.jpg",
@@ -23,6 +31,12 @@
   "feed": "https://feeds.megaphone.fm/SIXMSB5088139739",
   "name": "Modern Wisdom"
  },
+ "overdue": {
+  "art": null,
+  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "feed": "https://rss.art19.com/overdue",
+  "name": "Overdue"
+ },
  "philosophize-this": {
   "apple_id": 659155419,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/b7/51/c1b751eb-ab38-f11c-d6c1-0a9de79b7061/mza_12134548126279202007.jpg/600x600bb.jpg",
@@ -39,6 +53,14 @@
   "feed": "https://anchor.fm/s/ffb15c60/podcast/rss",
   "name": "Picture This: Photography Podcast"
  },
+ "selected-shorts": {
+  "apple_id": 253191824,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/89/b3/69/89b369f4-f554-5e4e-d47e-5b43fd7811e3/mza_6309785094485113893.jpg/600x600bb.jpg",
+  "artist": "Symphony Space",
+  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "feed": "https://rss.introcast.io/253191824/feeds.simplecast.com/ZoGIhfvz",
+  "name": "Selected Shorts"
+ },
  "shop-talk-live-fine-woodworking": {
   "apple_id": 508943027,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/eb/1f/ea/eb1feaf2-3356-a81b-b589-980f7f9a3107/mza_4940064301473067456.jpg/600x600bb.jpg",
@@ -46,6 +68,22 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://rss.libsyn.com/shows/39488/destinations/113998.xml",
   "name": "Shop Talk Live - Fine Woodworking"
+ },
+ "shopnotes-podcast": {
+  "apple_id": 1494711931,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/31/38/ee313848-107d-b078-89ce-64a098b0e8b7/mza_1842033565864667029.jpeg/600x600bb.jpg",
+  "artist": "Active Interest Media",
+  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "feed": "https://feeds.megaphone.fm/shopnotespodcast",
+  "name": "ShopNotes Podcast"
+ },
+ "small-town-murder": {
+  "apple_id": 1194755213,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/84/f4/2484f48c-4321-ef18-10ef-ac164cc80272/mza_5585431776803613938.png/600x600bb.jpg",
+  "artist": "James Pietragallo, Jimmie Whisman",
+  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "feed": "https://rss.libsyn.com/shows/580095/destinations/5028715.xml",
+  "name": "Small Town Murder"
  },
  "smartless": {
   "apple_id": 1521578868,

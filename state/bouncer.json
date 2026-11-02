@@ -7,6 +7,14 @@
   "title": "Ep0852 | \"Dr. Jekyll and Mrs. Hyde\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977103": {
+  "at": "2026-11-02T21:45:19.455287+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
+  "verdict": "air"
+ },
  "in-our-time|urn:bbc:podcast:m00325cd": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
@@ -29,6 +37,14 @@
   "reason": "clean",
   "show": "Modern Wisdom",
   "title": "Expelled, Arrested & Somehow Winning At Life - James Smith - #1170",
+  "verdict": "air"
+ },
+ "overdue|gid://art19-episode-locator/V0/kl3DtFobw_lNTFreuxvSVNK04gB9ROai-ruBLKOEwfk": {
+  "at": "2026-11-02T21:45:19.455287+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "Ep 774 - Kristy's Great Idea, a Baby-Sitter's Club graphic novel by Raina Telgemeier (w/ Daniela Doncel)",
   "verdict": "air"
  },
  "philosophize-this|03349722-d226-11f1-b097-87c1a9716dc2": {
@@ -55,12 +71,36 @@
   "title": "Why are all cameras Japanese?",
   "verdict": "air"
  },
+ "selected-shorts|3e979e21-5cec-41da-a4da-781e9b7264e7": {
+  "at": "2026-11-02T21:45:19.455287+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Charming Devils",
+  "verdict": "air"
+ },
  "shop-talk-live-fine-woodworking|7faa715c-6a37-4afa-9dce-963f46959f84": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "Shop Talk Live - Fine Woodworking",
   "title": "STL378: The Tweezer Man Cometh",
+  "verdict": "air"
+ },
+ "shopnotes-podcast|bdc52650-d24a-11f1-b647-ff0ad18c11cd": {
+  "at": "2026-11-02T21:45:19.455287+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "ShopNotes Podcast",
+  "title": "ShopNotes Podcast E290: We Have To Have Turbulence",
+  "verdict": "air"
+ },
+ "small-town-murder|fd151e94-7bcb-42b9-9571-ff5c77882be2": {
+  "at": "2026-11-02T21:45:19.455287+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Small Town Murder",
+  "title": "Bloody Triple Murder Madness - El Rancho, New Mexico",
   "verdict": "air"
  },
  "smartless|8e26ceb2-50a2-46c5-8680-8923ef301453": {
