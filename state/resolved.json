@@ -63,6 +63,22 @@
   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
   "name": "The Best of Coast to Coast AM"
  },
+ "the-cal-newport-show": {
+  "apple_id": 1515786216,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+  "artist": "Cal Newport",
+  "checked": "2026-11-02T11:02:52.878475+00:00",
+  "feed": "https://rss.pdrl.fm/2d4b16/feeds.simplecast.com/_IjaDYAj",
+  "name": "The Cal Newport Show"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett": {
+  "apple_id": 1291423644,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/600x600bb.jpg",
+  "artist": "DOAC",
+  "checked": "2026-11-02T11:02:52.878475+00:00",
+  "feed": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+  "name": "The Diary Of A CEO with Steven Bartlett"
+ },
  "the-mortise-tenon-podcast": {
   "apple_id": 1306454309,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c1/0d/f7/c10df7d3-860b-9e38-6908-d81bf01218f9/mza_1298549746918786445.jpg/600x600bb.jpg",

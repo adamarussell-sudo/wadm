@@ -15,6 +15,14 @@
   "title": "Casablanca",
   "verdict": "air"
  },
+ "in-our-time|urn:bbc:podcast:p0pdpszb": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "In Our Time",
+  "title": "Archive: Citizen Kane",
+  "verdict": "air"
+ },
  "modern-wisdom|08220162-2c76-11f1-89ce-77c6815fa6ce": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -29,6 +37,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #253 ... The Philosophy of Alan Watts - What Am I?",
+  "verdict": "air"
+ },
+ "picture-this-photography-podcast|c466c875-6290-487f-bba4-483ee1577cb1": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "Why I Broke My Camera",
   "verdict": "air"
  },
  "picture-this-photography-podcast|c5b797df-8e00-451e-b91e-925f93e64991": {
@@ -55,6 +71,14 @@
   "title": "STAYING ALIVE: Sean Hayes!",
   "verdict": "air"
  },
+ "smartless|f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Linda Cardellini\"",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -62,6 +86,30 @@
   "show": "The Best of Coast to Coast AM",
   "title": "Witchcraft - Best of Coast to Coast AM - 10/31/26",
   "verdict": "air"
+ },
+ "the-cal-newport-show|6303c9aa-d48a-11f1-a5e1-5bd503a556bb": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Cal Newport Show",
+  "title": "A Better Way to Think About Tech",
+  "verdict": "air"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M4BFEBPEK1CKAKZ2BYPSHPK1": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "Most Replayed Moment: Why You Need A Prenup And How To Avoid Divorce!",
+  "verdict": "air"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M5XRNCEJK9HGGCQQ268PCK6T": {
+  "at": "2026-11-02T11:02:52.878475+00:00",
+  "by": "keywords",
+  "reason": "mentions democrats, midterms, trump, woke",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
+  "verdict": "bounce"
  },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2022217393": {
   "at": "2026-11-01T15:33:27.683229+00:00",
