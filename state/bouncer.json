@@ -15,12 +15,36 @@
   "title": "Ep0852 | \"Dr. Jekyll and Mrs. Hyde\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634735.mp3": {
+  "at": "2026-11-03T21:50:09.193510+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0623 | \"A Study in Scarlett\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977103": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
+  "verdict": "air"
+ },
+ "everyday-woodworking|5f56da56-186d-4446-b0bb-ddc99991ac82": {
+  "at": "2026-11-03T21:50:09.193510+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Everyday Woodworking",
+  "title": "Roy Underhill from The Woodwright's Shop Interview",
+  "verdict": "air"
+ },
+ "freakonomics-radio|835cd2b1-bc0e-4a89-b896-e3a58cf01f3d": {
+  "at": "2026-11-03T21:50:09.193510+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "693. What’s Our Job as Humans Anymore?",
   "verdict": "air"
  },
  "hit-parade|1000798943776": {
@@ -53,6 +77,14 @@
   "reason": "clean",
   "show": "Modern Wisdom",
   "title": "Expelled, Arrested & Somehow Winning At Life - James Smith - #1170",
+  "verdict": "air"
+ },
+ "order-of-man|7143cf1b-8402-47cd-8561-43f92895bca2": {
+  "at": "2026-11-03T21:50:09.193510+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Order of Man",
+  "title": "JASON KHALIPA | Touch Grass and Train Hard",
   "verdict": "air"
  },
  "overdue|gid://art19-episode-locator/V0/kl3DtFobw_lNTFreuxvSVNK04gB9ROai-ruBLKOEwfk": {
@@ -149,6 +181,14 @@
   "reason": "clean",
   "show": "SmartLess",
   "title": "\"Linda Cardellini\"",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|461b17c5-25cd-45b4-bd9f-b4f700bae230": {
+  "at": "2026-11-03T21:50:09.193510+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Divine Intervention - Best of Coast to Coast AM - 11/2/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {

@@ -23,6 +23,22 @@
   "feed": "https://feeds.megaphone.fm/VKRX3013755423",
   "name": "CBS Radio Mystery Theater | Old Time Radio"
  },
+ "everyday-woodworking": {
+  "apple_id": 1549789559,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/0d/07/e20d0754-a254-9eab-9fe5-01ff43f06401/mza_11849502499143458840.jpg/600x600bb.jpg",
+  "artist": "Ricky Fitzpatrick",
+  "checked": "2026-11-03T21:50:09.193510+00:00",
+  "feed": "https://anchor.fm/s/3ac8776c/podcast/rss",
+  "name": "Everyday Woodworking"
+ },
+ "freakonomics-radio": {
+  "apple_id": 354668519,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/600x600bb.jpg",
+  "artist": "Freakonomics Radio + Stitcher",
+  "checked": "2026-11-03T21:50:09.193510+00:00",
+  "feed": "https://feeds.simplecast.com/Y8lFbOT4",
+  "name": "Freakonomics Radio"
+ },
  "hit-parade": {
   "apple_id": 1291058235,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/9a/2d/699a2d83-df22-a34c-5c67-837924c98e87/mza_16362956734941608387.jpg/600x600bb.jpg",
@@ -46,6 +62,14 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://feeds.megaphone.fm/SIXMSB5088139739",
   "name": "Modern Wisdom"
+ },
+ "order-of-man": {
+  "apple_id": 979752171,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/1c/cb/b01ccb1f-dbbb-11bc-b92c-d1983f91fd2a/mza_17716826975725880444.jpg/600x600bb.jpg",
+  "artist": "Ryan Michler",
+  "checked": "2026-11-03T21:50:09.193510+00:00",
+  "feed": "https://rss.libsyn.com/shows/65536/destinations/261453.xml",
+  "name": "Order of Man"
  },
  "overdue": {
   "art": null,
