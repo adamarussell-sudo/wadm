@@ -1,4 +1,12 @@
 {
+ "60-songs-that-explain-the-90s": {
+  "apple_id": 1635211340,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/7e/a6/997ea66d-b77c-579c-3fdf-00b02be598cc/mza_17267998723469096330.jpg/600x600bb.jpg",
+  "artist": "The Ringer",
+  "checked": "2026-11-03T10:57:56.184548+00:00",
+  "feed": "https://feeds.megaphone.fm/60-songs",
+  "name": "60 Songs That Explain the '90s"
+ },
  "cbs-radio-mystery-theater": {
   "apple_id": 1520763407,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/48/cf/9348cfd5-76b6-d603-f6aa-653f5d93fff6/mza_3554305780871592294.jpg/600x600bb.jpg",
@@ -14,6 +22,14 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://feeds.megaphone.fm/VKRX3013755423",
   "name": "CBS Radio Mystery Theater | Old Time Radio"
+ },
+ "hit-parade": {
+  "apple_id": 1291058235,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/9a/2d/699a2d83-df22-a34c-5c67-837924c98e87/mza_16362956734941608387.jpg/600x600bb.jpg",
+  "artist": "Slate Podcasts",
+  "checked": "2026-11-03T10:57:56.184548+00:00",
+  "feed": "https://my.slate.com/podcasts/feeds/hit-parade/",
+  "name": "Hit Parade | Music History and Music Trivia"
  },
  "in-our-time": {
   "apple_id": 73330895,
@@ -100,6 +116,14 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/61c1535a-56bb-431a-ad6b-ae2b00350f5c/b95f0c24-c199-4939-b52c-ae2b00350f65/podcast.rss",
   "name": "The Best of Coast to Coast AM"
+ },
+ "the-book-club-prageru": {
+  "apple_id": 1495731488,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/6e/3b/096e3bb1-fe66-45f2-c5ef-d52b723873fa/mza_17141882495731683666.jpeg/600x600bb.jpg",
+  "artist": "PragerU",
+  "checked": "2026-11-03T10:57:56.184548+00:00",
+  "feed": "https://feeds.megaphone.fm/PRAGERU3904590261",
+  "name": "The Book Club | PragerU"
  },
  "the-cal-newport-show": {
   "apple_id": 1515786216,

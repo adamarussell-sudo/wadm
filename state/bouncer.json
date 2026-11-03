@@ -1,4 +1,12 @@
 {
+ "60-songs-that-explain-the-90s|0c19be26-d24e-11f1-b7ce-376ecb65857c": {
+  "at": "2026-11-03T10:57:56.184548+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "Fountains of Wayne — “Stacy’s Mom”",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -13,6 +21,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
+  "verdict": "air"
+ },
+ "hit-parade|1000798943776": {
+  "at": "2026-11-03T10:57:56.184548+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Hit Parade",
+  "title": "Going to Graceland Edition",
   "verdict": "air"
  },
  "in-our-time|urn:bbc:podcast:m00325cd": {
@@ -53,6 +69,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #253 ... The Philosophy of Alan Watts - What Am I?",
+  "verdict": "air"
+ },
+ "philosophize-this|a2f3a268-dead-11ee-b45c-138aa459515a": {
+  "at": "2026-11-03T10:57:56.184548+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #197 ... New Atheists and cosmic purpose without God - (Zizek, Goff, Nagel)",
   "verdict": "air"
  },
  "picture-this-photography-podcast|c466c875-6290-487f-bba4-483ee1577cb1": {
@@ -111,6 +135,14 @@
   "title": "STAYING ALIVE: Sean Hayes!",
   "verdict": "air"
  },
+ "smartless|af235812-427d-4250-8c61-bc9debe217e6": {
+  "at": "2026-11-03T10:57:56.184548+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Ray Winstone\"",
+  "verdict": "air"
+ },
  "smartless|f0d9c728-4f5c-4df3-93c5-dd4526aeaa2a": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
@@ -125,6 +157,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Witchcraft - Best of Coast to Coast AM - 10/31/26",
+  "verdict": "air"
+ },
+ "the-book-club-prageru|36623092-610b-11f0-a572-abd3794b024e": {
+  "at": "2026-11-03T10:57:56.184548+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Book Club | PragerU",
+  "title": "Sir Niall Ferguson: War and Peace by Leo Tolstoy | The Book Club",
   "verdict": "air"
  },
  "the-cal-newport-show|6303c9aa-d48a-11f1-a5e1-5bd503a556bb": {
