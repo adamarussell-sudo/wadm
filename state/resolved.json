@@ -73,7 +73,7 @@
  },
  "overdue": {
   "art": null,
-  "checked": "2026-11-02T21:45:19.455287+00:00",
+  "checked": "2026-11-04T21:52:38.526490+00:00",
   "feed": "https://rss.art19.com/overdue",
   "name": "Overdue"
  },
@@ -92,6 +92,14 @@
   "checked": "2026-11-01T15:33:27.683229+00:00",
   "feed": "https://anchor.fm/s/ffb15c60/podcast/rss",
   "name": "Picture This: Photography Podcast"
+ },
+ "scamtown": {
+  "apple_id": 1759446975,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/4d/83/5b4d834b-7d67-73b6-f54c-ad8722dc5d0a/mza_12778752719038456598.jpeg/600x600bb.jpg",
+  "artist": "Apple TV / FunMeter",
+  "checked": "2026-11-04T21:52:38.526490+00:00",
+  "feed": "https://rss.art19.com/scamtown",
+  "name": "Scamtown"
  },
  "selected-shorts": {
   "apple_id": 253191824,
@@ -172,6 +180,14 @@
   "checked": "2026-11-01T15:33:27.683229+00:00",
   "feed": "https://feeds.soundcloud.com/users/soundcloud:users:256482747/sounds.rss",
   "name": "The Mortise & Tenon Podcast"
+ },
+ "triggernometry": {
+  "apple_id": 1375568988,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/15/72/c4/1572c4aa-0a61-4fab-ff39-688354ad5931/mza_13587565036420406085.png/600x600bb.jpg",
+  "artist": "TRIGGERnometry",
+  "checked": "2026-11-04T21:52:38.526490+00:00",
+  "feed": "https://feeds.megaphone.fm/AALT9618167458",
+  "name": "TRIGGERnometry"
  },
  "wood-talk-woodworking": {
   "apple_id": 251471480,

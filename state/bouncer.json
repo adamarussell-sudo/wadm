@@ -7,6 +7,14 @@
   "title": "Fountains of Wayne — “Stacy’s Mom”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|80dbcfb6-d7de-11f1-a517-3bdaa5391616": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "E-40 — “Tell Me When To Go”",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -23,12 +31,28 @@
   "title": "Ep0623 | \"A Study in Scarlett\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956095": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_74-06-25_(0110)_Where Fear Begins",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977103": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
+  "verdict": "air"
+ },
+ "everyday-woodworking|05c6d26b-c540-4f61-9589-8d68d93fb0a6": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Everyday Woodworking",
+  "title": "Setting Up A Small Shop #1",
   "verdict": "air"
  },
  "everyday-woodworking|5f56da56-186d-4446-b0bb-ddc99991ac82": {
@@ -45,6 +69,14 @@
   "reason": "clean",
   "show": "Freakonomics Radio",
   "title": "693. What’s Our Job as Humans Anymore?",
+  "verdict": "air"
+ },
+ "freakonomics-radio|e4c05d01-5e71-4f13-a953-cc7495e996fc": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy",
   "verdict": "air"
  },
  "hit-parade|1000798943776": {
@@ -87,6 +119,14 @@
   "title": "JASON KHALIPA | Touch Grass and Train Hard",
   "verdict": "air"
  },
+ "overdue|gid://art19-episode-locator/V0/hiiyED28DIcMJORdqb30S0bjo9VI5r73frv2l4YKzvs": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "The Sillymarillion Ep 05 - The Last Stage (of the First Age) (J.R.R. Tolkien's The Silmarillion)",
+  "verdict": "air"
+ },
  "overdue|gid://art19-episode-locator/V0/kl3DtFobw_lNTFreuxvSVNK04gB9ROai-ruBLKOEwfk": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -127,12 +167,28 @@
   "title": "Why are all cameras Japanese?",
   "verdict": "air"
  },
+ "scamtown|gid://art19-episode-locator/V0/bYJ0OavkWf5_ILf0nO8yDyeJ4598lDF6XgVd2GSZGOc": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Scamtown",
+  "title": "What the Puck? | 11",
+  "verdict": "air"
+ },
  "selected-shorts|3e979e21-5cec-41da-a4da-781e9b7264e7": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Charming Devils",
+  "verdict": "air"
+ },
+ "selected-shorts|d5f604d5-32b6-42ce-8b2d-ea29bbd9689a": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Meg Wolitzer Talks with Denis O'Hare",
   "verdict": "air"
  },
  "shop-talk-live-fine-woodworking|7faa715c-6a37-4afa-9dce-963f46959f84": {
@@ -191,6 +247,14 @@
   "title": "Divine Intervention - Best of Coast to Coast AM - 11/2/26",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|85213d95-7bb4-4463-85da-b4f800ae7ff2": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Egyptian Pyramids - Best of Coast to Coast AM - 11/3/26",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -239,12 +303,60 @@
   "title": "71 – Finding Balance",
   "verdict": "air"
  },
+ "triggernometry|1e2fbaec-d2ea-11f1-9b93-c315f2c58c36": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "mentions political, politics",
+  "show": "TRIGGERnometry",
+  "title": "\"This Is the Age of Political Violence\" – Dr Robert Pape",
+  "verdict": "bounce"
+ },
+ "triggernometry|91c88b02-d491-11f1-935f-7b0ef5bc20f1": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "mentions midterms",
+  "show": "TRIGGERnometry",
+  "title": "Budget Analysis, Mbappe China Furore & Midterms - Off the Fence",
+  "verdict": "bounce"
+ },
+ "triggernometry|b7f7cd0e-d853-11f1-bb0e-4bf6532dfa7c": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "mentions trump, woke",
+  "show": "TRIGGERnometry",
+  "title": "\"The Radical Right Is More Reasonable Than the Moderate Left\" – Steven Crowder",
+  "verdict": "bounce"
+ },
+ "triggernometry|ebfdbeac-d45b-11f1-8043-cbba740735e0": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "mentions politics, senate",
+  "show": "TRIGGERnometry",
+  "title": "\"Dems Will Win the House but Senate Is Another Story\" – David Pakman",
+  "verdict": "bounce"
+ },
+ "triggernometry|tag:soundcloud,2010:tracks/447046566": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "TRIGGERnometry",
+  "title": "Triggernometry - Ep. 5 David Pilling",
+  "verdict": "air"
+ },
  "wood-talk-woodworking|68d4144cd5de959dc433f2d7": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "Wood Talk | Woodworking",
   "title": "When Possible, Complicate It! - Wood Talk 591",
+  "verdict": "air"
+ },
+ "wood-talk-woodworking|6aeb4371651640b48aed4446": {
+  "at": "2026-11-04T21:52:38.526490+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Wood Talk | Woodworking",
+  "title": "Can AI Change How Woodworkers Design Furniture? | WT618",
   "verdict": "air"
  }
 }
