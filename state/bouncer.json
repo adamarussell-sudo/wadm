@@ -31,6 +31,14 @@
   "title": "Ep0623 | \"A Study in Scarlett\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634894.mp3": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0382 | \"Lamps of the Devil\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956095": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -119,6 +127,14 @@
   "title": "Expelled, Arrested & Somehow Winning At Life - James Smith - #1170",
   "verdict": "air"
  },
+ "myths-and-legends|audioboom-01a1a31b-5495-7676-8de6-fa456183d799": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Myths and Legends",
+  "title": "447: Medieval Knights: Bevis and Butting Heads",
+  "verdict": "air"
+ },
  "order-of-man|7143cf1b-8402-47cd-8561-43f92895bca2": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -157,6 +173,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #253 ... The Philosophy of Alan Watts - What Am I?",
+  "verdict": "air"
+ },
+ "philosophize-this|35dfbca8-7f60-11ef-a739-87898f2411d2": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #212 ... Nietzsche and Critchley on the tragic perspective. (Amor Fati pt. 2)",
   "verdict": "air"
  },
  "philosophize-this|a2f3a268-dead-11ee-b45c-138aa459515a": {
@@ -205,6 +229,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Meg Wolitzer Talks with Denis O'Hare",
+  "verdict": "air"
+ },
+ "selected-shorts|e87e17f6-5cd6-4152-902e-8ff1ebffb0b7": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "If You’d Only Listen",
   "verdict": "air"
  },
  "shop-talk-live-fine-woodworking|7faa715c-6a37-4afa-9dce-963f46959f84": {
@@ -317,6 +349,38 @@
   "reason": "mentions democrats, midterms, trump, woke",
   "show": "The Diary Of A CEO with Steven Bartlett",
   "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
+  "verdict": "bounce"
+ },
+ "the-journal|72853ebc-d89b-11f1-b8d4-ef1a71586f64": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "mentions trump",
+  "show": "The Journal.",
+  "title": "Why Companies Are Paying You to Quit",
+  "verdict": "bounce"
+ },
+ "the-journal|ba9c719a-d83a-11f1-b172-dfa2557315e7": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "mentions democrats, election, trump",
+  "show": "The Journal.",
+  "title": "Red, White and Who? A Blue Tsunami",
+  "verdict": "bounce"
+ },
+ "the-journal|f0ade79c-d7d0-11f1-a17e-17e8a1075b75": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Journal.",
+  "title": "Binance and the Biggest Crypto Heist Ever",
+  "verdict": "air"
+ },
+ "the-journal|f917ec7e-d961-11f1-b46b-b76f34832132": {
+  "at": "2026-11-05T21:51:43.918012+00:00",
+  "by": "keywords",
+  "reason": "mentions democrats, republicans",
+  "show": "The Journal.",
+  "title": "What Just Happened to Politics in the South?",
   "verdict": "bounce"
  },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/1025050783": {

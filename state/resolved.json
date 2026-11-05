@@ -63,6 +63,12 @@
   "feed": "https://feeds.megaphone.fm/SIXMSB5088139739",
   "name": "Modern Wisdom"
  },
+ "myths-and-legends": {
+  "art": null,
+  "checked": "2026-11-05T21:51:43.918012+00:00",
+  "feed": "https://audioboom.com/channels/5094626.rss",
+  "name": "Myths and Legends"
+ },
  "order-of-man": {
   "apple_id": 979752171,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/1c/cb/b01ccb1f-dbbb-11bc-b92c-d1983f91fd2a/mza_17716826975725880444.jpg/600x600bb.jpg",
@@ -178,6 +184,14 @@
   "checked": "2026-11-02T11:02:52.878475+00:00",
   "feed": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
   "name": "The Diary Of A CEO with Steven Bartlett"
+ },
+ "the-journal": {
+  "apple_id": 1469394914,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/0e/ca/910eca32-75a3-48b6-9be7-f45799ef5f2f/mza_9869666721903280546.jpg/600x600bb.jpg",
+  "artist": "The Wall Street Journal & Spotify Studios",
+  "checked": "2026-11-05T21:51:43.918012+00:00",
+  "feed": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20journal",
+  "name": "The Journal."
  },
  "the-mortise-tenon-podcast": {
   "apple_id": 1306454309,
