@@ -87,6 +87,14 @@
   "title": "Going to Graceland Edition",
   "verdict": "air"
  },
+ "hit-parade|4858e85a-53de-11ed-bd54-2bd86c2cddbc": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Hit Parade",
+  "title": "Chestnut Roasters, Part 2",
+  "verdict": "air"
+ },
  "in-our-time|urn:bbc:podcast:m00325cd": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
@@ -117,6 +125,14 @@
   "reason": "clean",
   "show": "Order of Man",
   "title": "JASON KHALIPA | Touch Grass and Train Hard",
+  "verdict": "air"
+ },
+ "order-of-man|9d51f34a-eac0-4d40-8e40-d9979f8fbbb2": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Order of Man",
+  "title": "Why Your Relationships Need More Leadership and Less Control | ASK ME ANYTHING",
   "verdict": "air"
  },
  "overdue|gid://art19-episode-locator/V0/hiiyED28DIcMJORdqb30S0bjo9VI5r73frv2l4YKzvs": {
@@ -239,6 +255,14 @@
   "title": "\"Linda Cardellini\"",
   "verdict": "air"
  },
+ "the-best-of-car-talk|39f011be-5917-43eb-b8de-3f181ae0a788": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Car Talk",
+  "title": "#2688: The Noisemaster",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|461b17c5-25cd-45b4-bd9f-b4f700bae230": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -295,6 +319,14 @@
   "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
   "verdict": "bounce"
  },
+ "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/1025050783": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Mortise & Tenon Podcast",
+  "title": "26 – How Many Tools Do We Really Need?",
+  "verdict": "air"
+ },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2022217393": {
   "at": "2026-11-01T15:33:27.683229+00:00",
   "by": "keywords",
@@ -333,6 +365,38 @@
   "reason": "mentions politics, senate",
   "show": "TRIGGERnometry",
   "title": "\"Dems Will Win the House but Senate Is Another Story\" – David Pakman",
+  "verdict": "bounce"
+ },
+ "triggernometry|tag:audioboom.com,2021-01-13:/posts/7770893": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "mentions politics, transgender",
+  "show": "TRIGGERnometry",
+  "title": "Transgender Clinic Whistleblower Speaks Out",
+  "verdict": "bounce"
+ },
+ "triggernometry|tag:audioboom.com,2022-02-09:/posts/8028458": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "TRIGGERnometry",
+  "title": "Where Did COVID-19 REALLY Come From? With Matt Ridley",
+  "verdict": "air"
+ },
+ "triggernometry|tag:audioboom.com,2023-05-05:/posts/8295926": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "mentions anti-woke, trump, woke",
+  "show": "TRIGGERnometry",
+  "title": "Andrew Klavan: Why The West Isn’t Over",
+  "verdict": "bounce"
+ },
+ "triggernometry|tag:audioboom.com,2023-05-17:/posts/8302350": {
+  "at": "2026-11-05T11:08:14.064046+00:00",
+  "by": "keywords",
+  "reason": "mentions trump",
+  "show": "TRIGGERnometry",
+  "title": "Dan Crenshaw: Fortitude in the Era of Grievance",
   "verdict": "bounce"
  },
  "triggernometry|tag:soundcloud,2010:tracks/447046566": {
