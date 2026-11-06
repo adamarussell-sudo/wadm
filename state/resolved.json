@@ -23,6 +23,14 @@
   "feed": "https://feeds.megaphone.fm/VKRX3013755423",
   "name": "CBS Radio Mystery Theater | Old Time Radio"
  },
+ "conan-o-brien-needs-a-friend": {
+  "apple_id": 1438054347,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/600x600bb.jpg",
+  "artist": "Team Coco & Earwolf",
+  "checked": "2026-11-06T11:05:55.458070+00:00",
+  "feed": "https://feeds.simplecast.com/dHoohVNH",
+  "name": "Conan O’Brien Needs A Friend"
+ },
  "everyday-woodworking": {
   "apple_id": 1549789559,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/0d/07/e20d0754-a254-9eab-9fe5-01ff43f06401/mza_11849502499143458840.jpg/600x600bb.jpg",
@@ -79,7 +87,7 @@
  },
  "overdue": {
   "art": null,
-  "checked": "2026-11-04T21:52:38.526490+00:00",
+  "checked": "2026-11-06T11:05:55.458070+00:00",
   "feed": "https://rss.art19.com/overdue",
   "name": "Overdue"
  },
@@ -147,9 +155,17 @@
   "feed": "https://feeds.simplecast.com/hNaFxXpO",
   "name": "SmartLess"
  },
+ "the-art-of-photography": {
+  "apple_id": 294540619,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/65/27/76/65277686-2360-4700-b65f-663ae75f98d5/mza_15537621593561969986.jpg/600x600bb.jpg",
+  "artist": "Ted Forbes",
+  "checked": "2026-11-06T11:05:55.458070+00:00",
+  "feed": "http://s3.amazonaws.com/Public-Broadcast/aop-itunes.xml",
+  "name": "The Art of Photography"
+ },
  "the-best-of-car-talk": {
   "art": null,
-  "checked": "2026-11-05T11:08:14.064046+00:00",
+  "checked": "2026-11-06T11:05:55.458070+00:00",
   "feed": "https://feeds.npr.org/510208/podcast.xml",
   "name": "The Best of Car Talk"
  },

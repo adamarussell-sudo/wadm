@@ -15,6 +15,14 @@
   "title": "E-40 — “Tell Me When To Go”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|d70bd3a2-7f90-11ef-99e1-d72625b48ca3": {
+  "at": "2026-11-06T11:05:55.458070+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "“Mr. Brightside”—The Killers",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -53,6 +61,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
+  "verdict": "air"
+ },
+ "conan-o-brien-needs-a-friend|c2226f56-3689-4ebd-bf86-653e6f9dfecb": {
+  "at": "2026-11-06T11:05:55.458070+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "For the Love of Butts",
   "verdict": "air"
  },
  "everyday-woodworking|05c6d26b-c540-4f61-9589-8d68d93fb0a6": {
@@ -151,6 +167,14 @@
   "title": "Why Your Relationships Need More Leadership and Less Control | ASK ME ANYTHING",
   "verdict": "air"
  },
+ "overdue|gid://art19-episode-locator/V0/AC34WKxPaGvVgfs83FjrkK33FV1ApRozfyVL_GoEBSo": {
+  "at": "2026-11-06T11:05:55.458070+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "Ep 766 - Picnic at Hanging Rock, by Joan Lindsay",
+  "verdict": "air"
+ },
  "overdue|gid://art19-episode-locator/V0/hiiyED28DIcMJORdqb30S0bjo9VI5r73frv2l4YKzvs": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -181,6 +205,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #212 ... Nietzsche and Critchley on the tragic perspective. (Amor Fati pt. 2)",
+  "verdict": "air"
+ },
+ "philosophize-this|5a9cfd3e-a55e-11ef-bb50-bbb982a87276": {
+  "at": "2026-11-06T11:05:55.458070+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #216 ... The Self-Overcoming of Nihilism - Kyoto School pt. 1 - Nishitani",
   "verdict": "air"
  },
  "philosophize-this|a2f3a268-dead-11ee-b45c-138aa459515a": {
@@ -285,6 +317,14 @@
   "reason": "clean",
   "show": "SmartLess",
   "title": "\"Linda Cardellini\"",
+  "verdict": "air"
+ },
+ "the-best-of-car-talk|07e2dbbf-e546-4a6a-a3df-6ce8f0db2024": {
+  "at": "2026-11-06T11:05:55.458070+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Car Talk",
+  "title": "#2687: The Joys of Spite",
   "verdict": "air"
  },
  "the-best-of-car-talk|39f011be-5917-43eb-b8de-3f181ae0a788": {
