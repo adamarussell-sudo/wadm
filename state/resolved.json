@@ -107,6 +107,22 @@
   "feed": "https://anchor.fm/s/ffb15c60/podcast/rss",
   "name": "Picture This: Photography Podcast"
  },
+ "planet-money": {
+  "apple_id": 290783428,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/df/53/85df5334-0fae-28a9-2bc4-b97b81061d0e/mza_10839245066228881011.jpg/600x600bb.jpg",
+  "artist": "NPR",
+  "checked": "2026-11-06T21:44:52.389383+00:00",
+  "feed": "https://feeds.npr.org/510289/podcast.xml",
+  "name": "Planet Money"
+ },
+ "psychacks": {
+  "apple_id": 1578558325,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/bb/2e/30/bb2e3072-7f5d-13b1-fb84-b740ca4b0ba6/mza_14523175878110254144.png/600x600bb.jpg",
+  "artist": "Orion Taraban",
+  "checked": "2026-11-06T21:44:52.389383+00:00",
+  "feed": "https://feed.podbean.com/oriontaraban/feed.xml",
+  "name": "PsycHacks"
+ },
  "scamtown": {
   "apple_id": 1759446975,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5b/4d/83/5b4d834b-7d67-73b6-f54c-ad8722dc5d0a/mza_12778752719038456598.jpeg/600x600bb.jpg",

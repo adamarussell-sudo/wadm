@@ -63,6 +63,14 @@
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39978515": {
+  "at": "2026-11-06T21:44:52.389383+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_78-10-20_(0908)_The Outside Girl",
+  "verdict": "air"
+ },
  "conan-o-brien-needs-a-friend|c2226f56-3689-4ebd-bf86-653e6f9dfecb": {
   "at": "2026-11-06T11:05:55.458070+00:00",
   "by": "keywords",
@@ -239,6 +247,22 @@
   "title": "Why are all cameras Japanese?",
   "verdict": "air"
  },
+ "planet-money|d7ae601b-8465-47f2-835c-21fba48f631d": {
+  "at": "2026-11-06T21:44:52.389383+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "The history of light (classic)",
+  "verdict": "air"
+ },
+ "psychacks|oriontaraban.podbean.com/fb0c9a6e-d096-38c1-a260-35f4270d980f": {
+  "at": "2026-11-06T21:44:52.389383+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "PsycHacks",
+  "title": "Episode 672: How to make money (get out of slavery)",
+  "verdict": "air"
+ },
  "scamtown|gid://art19-episode-locator/V0/bYJ0OavkWf5_ILf0nO8yDyeJ4598lDF6XgVd2GSZGOc": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -303,6 +327,14 @@
   "title": "STAYING ALIVE: Sean Hayes!",
   "verdict": "air"
  },
+ "smartless|8e3f99f9-3bf7-484d-974c-f4356f7b4e26": {
+  "at": "2026-11-06T21:44:52.389383+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"RE-RELEASE: Reese Witherspoon\"",
+  "verdict": "air"
+ },
  "smartless|af235812-427d-4250-8c61-bc9debe217e6": {
   "at": "2026-11-03T10:57:56.184548+00:00",
   "by": "keywords",
@@ -349,6 +381,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Egyptian Pyramids - Best of Coast to Coast AM - 11/3/26",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|d169b35e-994c-433a-8294-b4fa00fd5123": {
+  "at": "2026-11-06T21:44:52.389383+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Episode 316: How to PREVENT or CREATE Paranormal Activity!",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
