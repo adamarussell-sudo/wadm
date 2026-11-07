@@ -7,6 +7,14 @@
   "feed": "https://feeds.megaphone.fm/60-songs",
   "name": "60 Songs That Explain the '90s"
  },
+ "99-invisible": {
+  "apple_id": 394775318,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/d0/35/79d035ea-9043-b43e-7380-33cd47bd968b/mza_2606971010425550919.jpg/600x600bb.jpg",
+  "artist": "Roman Mars",
+  "checked": "2026-11-07T10:46:25.276128+00:00",
+  "feed": "https://feeds.simplecast.com/BqbsxVfO",
+  "name": "99% Invisible"
+ },
  "cbs-radio-mystery-theater": {
   "apple_id": 1520763407,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/93/48/cf/9348cfd5-76b6-d603-f6aa-653f5d93fff6/mza_3554305780871592294.jpg/600x600bb.jpg",
@@ -22,6 +30,14 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://feeds.megaphone.fm/VKRX3013755423",
   "name": "CBS Radio Mystery Theater | Old Time Radio"
+ },
+ "cocaine-rhinestones-the-history-of-country-music": {
+  "apple_id": 1304192102,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/1d/ef/68/1def6898-428a-b0bf-53dd-9f7568a444ca/mza_10353248682810255217.jpg/600x600bb.jpg",
+  "artist": "Tyler Mahan Coe",
+  "checked": "2026-11-07T10:46:25.276128+00:00",
+  "feed": "https://anchor.fm/s/52444bf0/podcast/rss",
+  "name": "Cocaine & Rhinestones: The History of Country Music"
  },
  "conan-o-brien-needs-a-friend": {
   "apple_id": 1438054347,
