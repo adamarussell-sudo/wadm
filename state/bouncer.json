@@ -31,6 +31,14 @@
   "title": "100 Objects #23: Coin From the Ship of Gold",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634123.mp3": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep1185 | \"The Fatal 50,000\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -119,6 +127,22 @@
   "title": "693. What’s Our Job as Humans Anymore?",
   "verdict": "air"
  },
+ "freakonomics-radio|c7a5d16d-c9c2-4986-bf39-5edd0bcf6054": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "613. Dying Is Easy. Retail Is Hard.",
+  "verdict": "air"
+ },
+ "freakonomics-radio|e16f3508-dd10-4df9-98eb-8223df2487de": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "mentions elections",
+  "show": "Freakonomics Radio",
+  "title": "694. Does Democracy Really Need Elections?",
+  "verdict": "bounce"
+ },
  "freakonomics-radio|e4c05d01-5e71-4f13-a953-cc7495e996fc": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -149,6 +173,14 @@
   "reason": "clean",
   "show": "In Our Time",
   "title": "Casablanca",
+  "verdict": "air"
+ },
+ "in-our-time|urn:bbc:podcast:m0032fqb": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "In Our Time",
+  "title": "Megalosaurus",
   "verdict": "air"
  },
  "in-our-time|urn:bbc:podcast:p0pdpszb": {
@@ -279,6 +311,14 @@
   "title": "The history of light (classic)",
   "verdict": "air"
  },
+ "psychacks|oriontaraban.podbean.com/c8a18e7a-b64a-306d-8440-3e3a2feb33c7": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "PsycHacks",
+  "title": "Episode 671: Check your weapons (making the world safer)",
+  "verdict": "air"
+ },
  "psychacks|oriontaraban.podbean.com/fb0c9a6e-d096-38c1-a260-35f4270d980f": {
   "at": "2026-11-06T21:44:52.389383+00:00",
   "by": "keywords",
@@ -301,6 +341,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Charming Devils",
+  "verdict": "air"
+ },
+ "selected-shorts|9190d595-22d2-48f6-b471-23a0b47d64e4": {
+  "at": "2026-11-07T21:41:37.696310+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Bonus: A Conversation with Elizabeth Strout",
   "verdict": "air"
  },
  "selected-shorts|d5f604d5-32b6-42ce-8b2d-ea29bbd9689a": {
