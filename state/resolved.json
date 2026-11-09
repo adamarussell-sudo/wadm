@@ -71,6 +71,14 @@
   "feed": "https://my.slate.com/podcasts/feeds/hit-parade/",
   "name": "Hit Parade | Music History and Music Trivia"
  },
+ "i-dream-of-cameras": {
+  "apple_id": 1644625705,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/f0/ba/5f/f0ba5f8a-1562-70af-05eb-d3c716571605/mza_7981706425941627442.jpg/600x600bb.jpg",
+  "artist": "Jeff Greenstein and Gabe Sachs",
+  "checked": "2026-11-09T11:00:52.077936+00:00",
+  "feed": "https://www.idreamofcameras.com/episodes?format=rss",
+  "name": "I Dream of Cameras"
+ },
  "in-our-time": {
   "apple_id": 73330895,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/12/e7/f312e703-b626-0091-5bdf-73d79cce25c5/mza_16900938594910783199.jpg/600x600bb.jpg",
@@ -89,7 +97,7 @@
  },
  "myths-and-legends": {
   "art": null,
-  "checked": "2026-11-05T21:51:43.918012+00:00",
+  "checked": "2026-11-09T11:00:52.077936+00:00",
   "feed": "https://audioboom.com/channels/5094626.rss",
   "name": "Myths and Legends"
  },
