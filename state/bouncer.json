@@ -31,6 +31,14 @@
   "title": "“Mr. Brightside”—The Killers",
   "verdict": "air"
  },
+ "99-invisible|56d61977-58fe-46f3-a70d-46ec6069dab1": {
+  "at": "2026-11-09T21:52:53.349527+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "99% Invisible",
+  "title": "Zone Zero",
+  "verdict": "air"
+ },
  "99-invisible|816164d8-b92d-49ed-924e-95dc25b71046": {
   "at": "2026-11-07T10:46:25.276128+00:00",
   "by": "keywords",
@@ -69,6 +77,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater | Old Time Radio",
   "title": "Ep0382 | \"Lamps of the Devil\"",
+  "verdict": "air"
+ },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/635010.mp3": {
+  "at": "2026-11-09T21:52:53.349527+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0298 | \"That Hamlet was a Good Boy\"",
   "verdict": "air"
  },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956095": {
@@ -407,6 +423,14 @@
   "title": "What the Puck? | 11",
   "verdict": "air"
  },
+ "selected-shorts|3600b4ba-a423-451c-89a6-f3942ea1be9a": {
+  "at": "2026-11-09T21:52:53.349527+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Bonus: Etgar Keret and Ira Glass",
+  "verdict": "air"
+ },
  "selected-shorts|3e979e21-5cec-41da-a4da-781e9b7264e7": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -535,6 +559,14 @@
   "title": "#2688: The Noisemaster",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|4459d329-0a76-4179-a281-b4fd00b59cc0": {
+  "at": "2026-11-09T21:52:53.349527+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Biblical Archeology - Best of Coast to Coast AM - 11/8/26",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|461b17c5-25cd-45b4-bd9f-b4f700bae230": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -597,6 +629,14 @@
   "reason": "clean",
   "show": "The Cal Newport Show",
   "title": "Reading As an Act of Resistance (Notes on Harvard’s Hum 10)",
+  "verdict": "air"
+ },
+ "the-cal-newport-show|c44d94b0-dad0-11f1-a485-ab07adbafdc0": {
+  "at": "2026-11-09T21:52:53.349527+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Cal Newport Show",
+  "title": "Can We Escape Our Internet Hell?",
   "verdict": "air"
  },
  "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M4BFEBPEK1CKAKZ2BYPSHPK1": {
