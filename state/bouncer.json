@@ -119,12 +119,28 @@
   "title": "CBS Radio Mystery Theater_78-10-20_(0908)_The Outside Girl",
   "verdict": "air"
  },
+ "cocaine-rhinestones-the-history-of-country-music|http://cocaineandrhinestones.com/?p=30": {
+  "at": "2026-11-10T10:56:10.969535+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Cocaine & Rhinestones: The History of Country Music",
+  "title": "CR004 - Bobbie Gentry: Exit Stage Left",
+  "verdict": "air"
+ },
  "cocaine-rhinestones-the-history-of-country-music|http://cocaineandrhinestones.com/?p=42": {
   "at": "2026-11-07T10:46:25.276128+00:00",
   "by": "keywords",
   "reason": "clean",
   "show": "Cocaine & Rhinestones: The History of Country Music",
   "title": "CR010 - Buck Owens & Don Rich, Part 1: Open Up Your Heart",
+  "verdict": "air"
+ },
+ "conan-o-brien-needs-a-friend|6fafb2d6-7b17-4e40-859a-2040de3cd70d": {
+  "at": "2026-11-10T10:56:10.969535+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "Dustin Hoffman Part I",
   "verdict": "air"
  },
  "conan-o-brien-needs-a-friend|815b21ef-9078-4720-b100-f78be4be34a1": {
@@ -157,6 +173,14 @@
   "reason": "clean",
   "show": "Everyday Woodworking",
   "title": "Roy Underhill from The Woodwright's Shop Interview",
+  "verdict": "air"
+ },
+ "everyday-woodworking|6b3eac0d-2fbb-4f5f-8168-0f0d48c0b882": {
+  "at": "2026-11-10T10:56:10.969535+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Everyday Woodworking",
+  "title": "Private Buys - The Best Places To Buy Bargain Tools",
   "verdict": "air"
  },
  "freakonomics-radio|835cd2b1-bc0e-4a89-b896-e3a58cf01f3d": {
@@ -359,6 +383,14 @@
   "title": "BEWARE: Photography SCAMS",
   "verdict": "air"
  },
+ "picture-this-photography-podcast|89950c63-f7ca-42d6-ad5a-56165e1ed325": {
+  "at": "2026-11-10T10:56:10.969535+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "TRICKED into Training A.I.",
+  "verdict": "air"
+ },
  "picture-this-photography-podcast|c466c875-6290-487f-bba4-483ee1577cb1": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
@@ -381,6 +413,14 @@
   "reason": "clean",
   "show": "Planet Money",
   "title": "Inside the insurance industry’s destruction lab",
+  "verdict": "air"
+ },
+ "planet-money|8fb00e7a-27bd-495a-a410-b6b0b2a1f075": {
+  "at": "2026-11-10T10:56:10.969535+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "A new experiment in remote work … from the inside",
   "verdict": "air"
  },
  "planet-money|d7ae601b-8465-47f2-835c-21fba48f631d": {
