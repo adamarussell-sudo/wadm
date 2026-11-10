@@ -95,6 +95,14 @@
   "title": "CBS Radio Mystery Theater_74-06-25_(0110)_Where Fear Begins",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956180": {
+  "at": "2026-11-10T21:45:56.779155+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_74-12-02_(0181)_The Dice Of Doom",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977103": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -271,6 +279,14 @@
   "title": "Expelled, Arrested & Somehow Winning At Life - James Smith - #1170",
   "verdict": "air"
  },
+ "modern-wisdom|8d05ca12-2c76-11f1-aef9-e7c1736a5614": {
+  "at": "2026-11-10T21:45:56.779155+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Modern Wisdom",
+  "title": "How To Turn Your Pain Into Greatness - Bugzy Malone - #1174",
+  "verdict": "air"
+ },
  "myths-and-legends|43653d3d-4ca3-427c-ae71-af6b0025fc59": {
   "at": "2026-11-09T11:00:52.077936+00:00",
   "by": "keywords",
@@ -309,6 +325,14 @@
   "reason": "clean",
   "show": "Overdue",
   "title": "Ep 766 - Picnic at Hanging Rock, by Joan Lindsay",
+  "verdict": "air"
+ },
+ "overdue|gid://art19-episode-locator/V0/aJKEbDc59RZ8pQ8JSb823qCcwEJjbRknCgJNfc_UUIo": {
+  "at": "2026-11-10T21:45:56.779155+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "Ep 775 - Lost Lambs, by Madeleine Cash",
   "verdict": "air"
  },
  "overdue|gid://art19-episode-locator/V0/hiiyED28DIcMJORdqb30S0bjo9VI5r73frv2l4YKzvs": {
@@ -509,6 +533,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "If You’d Only Listen",
+  "verdict": "air"
+ },
+ "selected-shorts|f360406f-ffe4-4949-946e-e407e058e932": {
+  "at": "2026-11-10T21:45:56.779155+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Bonus: Meg Wolitzer Talks to Alison Stewart",
   "verdict": "air"
  },
  "shop-talk-live-fine-woodworking|7faa715c-6a37-4afa-9dce-963f46959f84": {
@@ -853,6 +885,14 @@
   "reason": "clean",
   "show": "Wood Talk | Woodworking",
   "title": "Can AI Change How Woodworkers Design Furniture? | WT618",
+  "verdict": "air"
+ },
+ "wood-talk-woodworking|http://archive.org/download/wt101-wt200/WT_195.mp3": {
+  "at": "2026-11-10T21:45:56.779155+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Wood Talk | Woodworking",
+  "title": "WT195 – And We’re Back!",
   "verdict": "air"
  }
 }
