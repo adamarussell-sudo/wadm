@@ -7,6 +7,14 @@
   "title": "Fountains of Wayne — “Stacy’s Mom”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|703e0ae0-dd5e-11f1-8000-b3266eb28b84": {
+  "at": "2026-11-11T22:19:39.752401+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "Christina Aguilera — “Beautiful”",
+  "verdict": "air"
+ },
  "60-songs-that-explain-the-90s|80dbcfb6-d7de-11f1-a517-3bdaa5391616": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -85,6 +93,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater | Old Time Radio",
   "title": "Ep0298 | \"That Hamlet was a Good Boy\"",
+  "verdict": "air"
+ },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/635028.mp3": {
+  "at": "2026-11-11T22:19:39.752401+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0316 | \"The Lady is a Jinx\"",
   "verdict": "air"
  },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956095": {
@@ -199,6 +215,14 @@
   "title": "Private Buys - The Best Places To Buy Bargain Tools",
   "verdict": "air"
  },
+ "everyday-woodworking|fda8e974-f7aa-4211-a9d2-2528d3052aa3": {
+  "at": "2026-11-11T22:19:39.752401+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Everyday Woodworking",
+  "title": "Do You Need A CNC?",
+  "verdict": "air"
+ },
  "freakonomics-radio|835cd2b1-bc0e-4a89-b896-e3a58cf01f3d": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -309,6 +333,14 @@
   "reason": "clean",
   "show": "Myths and Legends",
   "title": "447: Medieval Knights: Bevis and Butting Heads",
+  "verdict": "air"
+ },
+ "order-of-man|6ea1908c-b707-4110-99fa-5b873d5089b6": {
+  "at": "2026-11-11T22:19:39.752401+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Order of Man",
+  "title": "A Son Joining the Military, A Job Outsourced to AI, and Dealing with a Cheating Friend | ASK ME ANYTHING",
   "verdict": "air"
  },
  "order-of-man|7143cf1b-8402-47cd-8561-43f92895bca2": {
@@ -669,6 +701,14 @@
   "reason": "clean",
   "show": "The Best of Car Talk",
   "title": "#2688: The Noisemaster",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|36d56a1c-0299-4f43-bd06-b4ff00ae66e4": {
+  "at": "2026-11-11T22:19:39.752401+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Roswell - Best of Coast to Coast AM - 11/10/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|4459d329-0a76-4179-a281-b4fd00b59cc0": {
