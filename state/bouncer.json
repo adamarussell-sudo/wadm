@@ -87,6 +87,14 @@
   "title": "Ep0852 | \"Dr. Jekyll and Mrs. Hyde\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634727.mp3": {
+  "at": "2026-11-13T21:51:57.590521+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0615 | \"Till Death Do Us Part\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634735.mp3": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -719,6 +727,14 @@
   "title": "STL 165: Staying Safe in the Shop",
   "verdict": "air"
  },
+ "shopnotes-podcast|0e5d9c90-dee5-11f1-a5df-1bde65497de9": {
+  "at": "2026-11-13T21:51:57.590521+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "ShopNotes Podcast",
+  "title": "ShopNotes Podcast E292: Church Shoe->Shop Shoe->Mowing Shoe",
+  "verdict": "air"
+ },
  "shopnotes-podcast|bdc52650-d24a-11f1-b647-ff0ad18c11cd": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -741,6 +757,14 @@
   "reason": "clean",
   "show": "SmartLess",
   "title": "\"Jake Tapper\"",
+  "verdict": "air"
+ },
+ "smartless|5ed092a1-9148-4653-9112-288ddb9007da": {
+  "at": "2026-11-13T21:51:57.590521+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"RE-RELEASE: Bill Hader\"",
   "verdict": "air"
  },
  "smartless|8e26ceb2-50a2-46c5-8680-8923ef301453": {
@@ -813,6 +837,22 @@
   "reason": "clean",
   "show": "The Best of Car Talk",
   "title": "#2690: The Government is Sabotaging My Isuzu!",
+  "verdict": "air"
+ },
+ "the-best-of-car-talk|7eadff8e-02d0-4ad4-b141-18390bed4adb": {
+  "at": "2026-11-13T21:51:57.590521+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Car Talk",
+  "title": "#2689: Miles Per Geek",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|316a6667-c1f6-4406-883f-b50100b1ca7b": {
+  "at": "2026-11-13T21:51:57.590521+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Angels - Best of Coast to Coast AM - 11/12/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|36d56a1c-0299-4f43-bd06-b4ff00ae66e4": {
