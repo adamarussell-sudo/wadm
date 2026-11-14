@@ -111,7 +111,7 @@
  },
  "overdue": {
   "art": null,
-  "checked": "2026-11-10T21:45:56.779155+00:00",
+  "checked": "2026-11-14T21:41:49.110119+00:00",
   "feed": "https://rss.art19.com/overdue",
   "name": "Overdue"
  },
@@ -221,7 +221,7 @@
  },
  "the-best-of-car-talk": {
   "art": null,
-  "checked": "2026-11-13T21:51:57.590521+00:00",
+  "checked": "2026-11-14T21:41:49.110119+00:00",
   "feed": "https://feeds.npr.org/510208/podcast.xml",
   "name": "The Best of Car Talk"
  },
@@ -288,5 +288,13 @@
   "checked": "2026-11-01T21:40:38.438238+00:00",
   "feed": "https://feeds.acast.com/public/shows/65a70f971a69290016a72737",
   "name": "Wood Talk | Woodworking"
+ },
+ "wsj-your-money-briefing": {
+  "apple_id": 152024419,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c1/fb/22/c1fb22f2-12d0-6f91-d351-0ba73a5e2e37/mza_10558249179125062574.jpg/600x600bb.jpg",
+  "artist": "The Wall Street Journal",
+  "checked": "2026-11-14T21:41:49.110119+00:00",
+  "feed": "https://video-api.shdsvc.dowjones.io/api/podcasts/the%20wall%20street%20journals%20your%20money%20matters/feed",
+  "name": "WSJ Your Money Briefing"
  }
 }
