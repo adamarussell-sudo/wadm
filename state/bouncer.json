@@ -7,6 +7,14 @@
   "title": "Fountains of Wayne — “Stacy’s Mom”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|1d201cb0-9412-11ee-ad96-2b15875ebf7c": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "The Songs We Didn’t Do (Everyone Yells At Rob)",
+  "verdict": "air"
+ },
  "60-songs-that-explain-the-90s|703e0ae0-dd5e-11f1-8000-b3266eb28b84": {
   "at": "2026-11-11T22:19:39.752401+00:00",
   "by": "keywords",
@@ -309,6 +317,14 @@
   "reason": "clean",
   "show": "Freakonomics Radio",
   "title": "What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy",
+  "verdict": "air"
+ },
+ "freakonomics-radio|http://www.wnyc.org/story/your-brain-podcasts/": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "262. This Is Your Brain on Podcasts",
   "verdict": "air"
  },
  "hit-parade|1000798943776": {
@@ -719,6 +735,14 @@
   "title": "Bonus: A Conversation with Elizabeth Strout",
   "verdict": "air"
  },
+ "selected-shorts|b398dbf3-693f-4c80-9739-8c7055cc6b00": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Fitting In",
+  "verdict": "air"
+ },
  "selected-shorts|bbfeedcd-987d-41d0-bcf4-6ee23aff8e2a": {
   "at": "2026-11-12T21:51:50.609776+00:00",
   "by": "keywords",
@@ -797,6 +821,14 @@
   "reason": "clean",
   "show": "Small Town Murder",
   "title": "Bloody Triple Murder Madness - El Rancho, New Mexico",
+  "verdict": "air"
+ },
+ "smartless|2bbf7e69-be16-47f7-8c44-5b7aee1fb46c": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Gwyneth Paltrow\"",
   "verdict": "air"
  },
  "smartless|5d6bb731-1810-4e8a-ba59-5b52b15a8fbb": {
@@ -1119,6 +1151,30 @@
   "title": "\"This Is the Age of Political Violence\" – Dr Robert Pape",
   "verdict": "bounce"
  },
+ "triggernometry|283e2350-daa8-11f1-9485-bbf36be3eed9": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "TRIGGERnometry",
+  "title": "\"The Winning Message in Politics Is Envy\" – Adam Carolla",
+  "verdict": "air"
+ },
+ "triggernometry|5768431e-e042-11f1-af32-7b2d91a10b40": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "mentions trump",
+  "show": "TRIGGERnometry",
+  "title": "Will Trump Nuke Iran? - Brandon Tatum",
+  "verdict": "bounce"
+ },
+ "triggernometry|58761776-df58-11f1-87bd-4f060682da90": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "mentions identity politics",
+  "show": "TRIGGERnometry",
+  "title": "We Taught Them to Hate Our Country - Katharine Birbalsingh",
+  "verdict": "bounce"
+ },
  "triggernometry|91c88b02-d491-11f1-935f-7b0ef5bc20f1": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -1141,6 +1197,14 @@
   "reason": "mentions politics, senate",
   "show": "TRIGGERnometry",
   "title": "\"Dems Will Win the House but Senate Is Another Story\" – David Pakman",
+  "verdict": "bounce"
+ },
+ "triggernometry|f9a9772a-ddee-11f1-a9af-af2d662e31d7": {
+  "at": "2026-11-15T10:49:28.079082+00:00",
+  "by": "keywords",
+  "reason": "mentions democrats, midterm, midterms, trump, woke",
+  "show": "TRIGGERnometry",
+  "title": "The Midterm Win Could Make the Democrats Worse - Sam Harris",
   "verdict": "bounce"
  },
  "triggernometry|tag:audioboom.com,2021-01-13:/posts/7770893": {
