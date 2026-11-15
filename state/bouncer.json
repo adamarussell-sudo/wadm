@@ -135,6 +135,14 @@
   "title": "Ep0316 | \"The Lady is a Jinx\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/635204.mp3": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0092 | \"The Forever Man\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956085": {
   "at": "2026-11-14T21:41:49.110119+00:00",
   "by": "keywords",
@@ -333,6 +341,14 @@
   "reason": "clean",
   "show": "Hit Parade",
   "title": "Going to Graceland Edition",
+  "verdict": "air"
+ },
+ "hit-parade|1000801859536": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Hit Parade",
+  "title": "Clearly Canadian Edition",
   "verdict": "air"
  },
  "hit-parade|4858e85a-53de-11ed-bd54-2bd86c2cddbc": {
@@ -541,6 +557,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #216 ... The Self-Overcoming of Nihilism - Kyoto School pt. 1 - Nishitani",
+  "verdict": "air"
+ },
+ "philosophize-this|64c583eddc41a6fb93329f965bdf527f": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #042 ... Optimism",
   "verdict": "air"
  },
  "philosophize-this|838eb5203873d964abf1b294620256ca": {
@@ -991,6 +1015,14 @@
   "title": "Episode 316: How to PREVENT or CREATE Paranormal Activity!",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|ed44200b-db49-43dd-9392-b50301065e69": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Episode 317: Have you had this recurring dream?",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -1071,6 +1103,14 @@
   "title": "Why Companies Are Paying You to Quit",
   "verdict": "bounce"
  },
+ "the-journal|aec2a90e-dfa9-11f1-854d-7fe7079f46e3": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "mentions midterm",
+  "show": "The Journal.",
+  "title": "Why Schwab’s CEO Is Betting on a Post-Midterm Rally",
+  "verdict": "bounce"
+ },
  "the-journal|ba9c719a-d83a-11f1-b172-dfa2557315e7": {
   "at": "2026-11-05T21:51:43.918012+00:00",
   "by": "keywords",
@@ -1078,6 +1118,14 @@
   "show": "The Journal.",
   "title": "Red, White and Who? A Blue Tsunami",
   "verdict": "bounce"
+ },
+ "the-journal|d4451b48-dfaa-11f1-9661-170a0e71e177": {
+  "at": "2026-11-15T21:43:41.416504+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Journal.",
+  "title": "How the Job Market Fell Into a Deep Freeze",
+  "verdict": "air"
  },
  "the-journal|f0ade79c-d7d0-11f1-a17e-17e8a1075b75": {
   "at": "2026-11-05T21:51:43.918012+00:00",
