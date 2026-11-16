@@ -167,6 +167,14 @@
   "title": "CBS Radio Mystery Theater_74-12-02_(0181)_The Dice Of Doom",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977091": {
+  "at": "2026-11-16T21:53:47.486465+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_75-03-06_(0234)_When The Death Bell Tolls",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977103": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -239,6 +247,14 @@
   "title": "Dustin Hoffman Part I",
   "verdict": "air"
  },
+ "conan-o-brien-needs-a-friend|776fa342-9f60-482e-831d-22ce9e8ce7f4": {
+  "at": "2026-11-16T21:53:47.486465+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "Adam Brody",
+  "verdict": "air"
+ },
  "conan-o-brien-needs-a-friend|815b21ef-9078-4720-b100-f78be4be34a1": {
   "at": "2026-11-08T10:47:57.518019+00:00",
   "by": "keywords",
@@ -287,6 +303,14 @@
   "title": "Do You Need A CNC?",
   "verdict": "air"
  },
+ "freakonomics-radio|79c89713-9ae0-4d0d-9cf3-c9740a8cf6c8": {
+  "at": "2026-11-16T21:53:47.486465+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "The First Great American Industry (Update)",
+  "verdict": "air"
+ },
  "freakonomics-radio|835cd2b1-bc0e-4a89-b896-e3a58cf01f3d": {
   "at": "2026-11-03T21:50:09.193510+00:00",
   "by": "keywords",
@@ -326,6 +350,14 @@
   "show": "Freakonomics Radio",
   "title": "What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy",
   "verdict": "air"
+ },
+ "freakonomics-radio|http://www.wnyc.org/story/ten-ideas-make-politics-less-rotten/": {
+  "at": "2026-11-16T21:53:47.486465+00:00",
+  "by": "keywords",
+  "reason": "mentions political, politics",
+  "show": "Freakonomics Radio",
+  "title": "255. Ten Ideas to Make Politics Less Rotten",
+  "verdict": "bounce"
  },
  "freakonomics-radio|http://www.wnyc.org/story/your-brain-podcasts/": {
   "at": "2026-11-15T10:49:28.079082+00:00",
@@ -797,6 +829,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Pushed from the Nest",
+  "verdict": "air"
+ },
+ "selected-shorts|ca62bdac-0571-403e-818c-a4163c8c0a41": {
+  "at": "2026-11-16T21:53:47.486465+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Too Hot For Radio: Ottessa Moshfegh \"The Weirdos\"",
   "verdict": "air"
  },
  "selected-shorts|d5f604d5-32b6-42ce-8b2d-ea29bbd9689a": {
