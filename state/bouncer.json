@@ -607,6 +607,14 @@
   "title": "TRICKED into Training A.I.",
   "verdict": "air"
  },
+ "picture-this-photography-podcast|9a08e68a-882f-4cea-bd64-9a057e72aaa6": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "$40 versus $13,000 Camera! Can YOU tell the difference?",
+  "verdict": "air"
+ },
  "picture-this-photography-podcast|a1bd2e91-2c39-4423-99f9-63e5877ef30c": {
   "at": "2026-11-12T11:08:01.134415+00:00",
   "by": "keywords",
@@ -637,6 +645,14 @@
   "reason": "clean",
   "show": "Picture This: Photography Podcast",
   "title": "Why are all cameras Japanese?",
+  "verdict": "air"
+ },
+ "planet-money|1d0454cc-1590-4928-8613-39678c23a5d5": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "Are wildfires making the future uninsurable?",
   "verdict": "air"
  },
  "planet-money|4dca2240-f1f8-47b7-a504-6aaae5753f74": {
@@ -733,6 +749,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Charming Devils",
+  "verdict": "air"
+ },
+ "selected-shorts|40bdde4a-d3e6-4f10-8c16-ae7500fabc59": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Bonus: Meg Wolitzer and Alison Stewart Talk Fiction",
   "verdict": "air"
  },
  "selected-shorts|8b421de7-1e7d-4d11-af19-f805b66023db": {
@@ -925,6 +949,14 @@
   "reason": "clean",
   "show": "Strong Songs",
   "title": "\"Chicago\" by Sufjan Stevens",
+  "verdict": "air"
+ },
+ "the-adam-and-dr-drew-show|gid://art19-episode-locator/V0/_sTIeBNoQ3mzcCuxhH5VQjR1vlEXGvmFV-LmnzTQOyM": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Adam and Dr. Drew Show",
+  "title": "#2112 - Allah’s Futile Sword, Peptides, And How To Judge A Culture FT. Trevor Kruder | Part 2",
   "verdict": "air"
  },
  "the-best-of-car-talk|07e2dbbf-e546-4a6a-a3df-6ce8f0db2024": {
@@ -1191,6 +1223,14 @@
   "title": "23 – Blacksmithing for Woodworkers",
   "verdict": "air"
  },
+ "triggernometry|190cb64a-da0c-11f1-9e99-03cda779908e": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "mentions midterms",
+  "show": "TRIGGERnometry",
+  "title": "The Midterms Breakdown + Russell Brand Found Guilty - Off the Fence",
+  "verdict": "bounce"
+ },
  "triggernometry|1e2fbaec-d2ea-11f1-9b93-c315f2c58c36": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -1254,6 +1294,14 @@
   "show": "TRIGGERnometry",
   "title": "The Midterm Win Could Make the Democrats Worse - Sam Harris",
   "verdict": "bounce"
+ },
+ "triggernometry|tag:audioboom.com,2019-09-01:/posts/7356735": {
+  "at": "2026-11-16T11:28:20.678623+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "TRIGGERnometry",
+  "title": "James Bloodworth on the Evils of the Gig Economy",
+  "verdict": "air"
  },
  "triggernometry|tag:audioboom.com,2021-01-13:/posts/7770893": {
   "at": "2026-11-05T11:08:14.064046+00:00",
