@@ -231,6 +231,14 @@
   "title": "CR010 - Buck Owens & Don Rich, Part 1: Open Up Your Heart",
   "verdict": "air"
  },
+ "conan-o-brien-needs-a-friend|170c122d-55f4-4892-8b16-1005c2468dd5": {
+  "at": "2026-11-17T11:07:42.670549+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "Taps with Andy Richter",
+  "verdict": "air"
+ },
  "conan-o-brien-needs-a-friend|6883121c-600f-472d-bf83-e5546d28da05": {
   "at": "2026-11-11T11:04:02.336206+00:00",
   "by": "keywords",
@@ -349,6 +357,14 @@
   "reason": "clean",
   "show": "Freakonomics Radio",
   "title": "What Now? with Trevor Noah | Michael Che: The Unspoken Rules of Comedy",
+  "verdict": "air"
+ },
+ "freakonomics-radio|http://www.wnyc.org/story/professor-hendryx-vs-big-coal/": {
+  "at": "2026-11-17T11:07:42.670549+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Freakonomics Radio",
+  "title": "275. Professor Hendryx vs. Big Coal",
   "verdict": "air"
  },
  "freakonomics-radio|http://www.wnyc.org/story/ten-ideas-make-politics-less-rotten/": {
@@ -695,6 +711,14 @@
   "title": "Inside the insurance industry’s destruction lab",
   "verdict": "air"
  },
+ "planet-money|70d8b4a2-8120-4edf-a676-ead093e1d532": {
+  "at": "2026-11-17T11:07:42.670549+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "How bodegas led to the Yemeni coffeehouse explosion",
+  "verdict": "air"
+ },
  "planet-money|8fb00e7a-27bd-495a-a410-b6b0b2a1f075": {
   "at": "2026-11-10T10:56:10.969535+00:00",
   "by": "keywords",
@@ -983,6 +1007,14 @@
   "title": "\"Will Forte\"",
   "verdict": "air"
  },
+ "strong-songs|29026924-3ae0-47c4-bd82-2442224f3569": {
+  "at": "2026-11-17T11:07:42.670549+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Strong Songs",
+  "title": "\"Born to Run\" by Bruce Springsteen",
+  "verdict": "air"
+ },
  "strong-songs|b20be9fd-00d8-48ad-ab48-ff7edb2d97bb": {
   "at": "2026-11-14T10:47:40.036545+00:00",
   "by": "keywords",
@@ -1125,6 +1157,14 @@
   "reason": "clean",
   "show": "The Cal Newport Show",
   "title": "Why is Google Holding Schools Hostage?",
+  "verdict": "air"
+ },
+ "the-cal-newport-show|4f44baa4-e084-11f1-a2dc-7b7eb561c834": {
+  "at": "2026-11-17T11:07:42.670549+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Cal Newport Show",
+  "title": "Beware of “Efficiency Theater”",
   "verdict": "air"
  },
  "the-cal-newport-show|6303c9aa-d48a-11f1-a5e1-5bd503a556bb": {
