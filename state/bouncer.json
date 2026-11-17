@@ -143,6 +143,14 @@
   "title": "Ep0092 | \"The Forever Man\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/635292.mp3": {
+  "at": "2026-11-17T21:57:29.511551+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0010 | \"The Resident\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956085": {
   "at": "2026-11-14T21:41:49.110119+00:00",
   "by": "keywords",
@@ -463,6 +471,14 @@
   "title": "How To Turn Your Pain Into Greatness - Bugzy Malone - #1174",
   "verdict": "air"
  },
+ "modern-wisdom|e1db3ae0-2c76-11f1-a15a-1f55157be83b": {
+  "at": "2026-11-17T21:57:29.511551+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Modern Wisdom",
+  "title": "The Strange Freedom To Be Disliked - James Blunt - #1177",
+  "verdict": "air"
+ },
  "myths-and-legends|43653d3d-4ca3-427c-ae71-af6b0025fc59": {
   "at": "2026-11-09T11:00:52.077936+00:00",
   "by": "keywords",
@@ -557,6 +573,14 @@
   "reason": "clean",
   "show": "Overdue",
   "title": "Ep 774 - Kristy's Great Idea, a Baby-Sitter's Club graphic novel by Raina Telgemeier (w/ Daniela Doncel)",
+  "verdict": "air"
+ },
+ "overdue|gid://art19-episode-locator/V0/t2dNxcxMK2Wl6AjfoTLmCDcRcwfTnG9qZl4cGUHyl-I": {
+  "at": "2026-11-17T21:57:29.511551+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "Ep 776 - Get Shorty, by Elmore Leonard",
   "verdict": "air"
  },
  "philosophize-this|03349722-d226-11f1-b097-87c1a9716dc2": {
@@ -749,6 +773,14 @@
   "reason": "clean",
   "show": "PsycHacks",
   "title": "Episode 674: It's all a game (how to learn the rules)",
+  "verdict": "air"
+ },
+ "psychacks|oriontaraban.podbean.com/af45b57f-c318-3079-9c0b-3d5b050d507c": {
+  "at": "2026-11-17T21:57:29.511551+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "PsycHacks",
+  "title": "Episode 675: Weight (why it's important to men)",
   "verdict": "air"
  },
  "psychacks|oriontaraban.podbean.com/c8a18e7a-b64a-306d-8440-3e3a2feb33c7": {
@@ -1125,6 +1157,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Episode 317: Have you had this recurring dream?",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|f0abc84d-6530-4c6d-85be-b50500b26028": {
+  "at": "2026-11-17T21:57:29.511551+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Space - Best of Coast to Coast AM - 11/16/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|f19dc0e4-4b1b-4cf4-a3af-b4f500a939fb": {
