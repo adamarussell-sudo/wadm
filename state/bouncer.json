@@ -223,6 +223,14 @@
   "title": "CBS Radio Mystery Theater_78-10-20_(0908)_The Outside Girl",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39978633": {
+  "at": "2026-11-18T21:56:34.464453+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_79-06-18_(0989)_The Unquiet Tomb",
+  "verdict": "air"
+ },
  "cocaine-rhinestones-the-history-of-country-music|1a04bcf0-c99a-42e7-8d77-474aa6afad82": {
   "at": "2026-11-18T11:08:49.337486+00:00",
   "by": "keywords",
@@ -663,6 +671,14 @@
   "title": "Episode #024 ... Montaigne",
   "verdict": "air"
  },
+ "philosophize-this|a23e8bacb35a00316ecb457931c889a6": {
+  "at": "2026-11-18T21:56:34.464453+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #004 ... Plato",
+  "verdict": "air"
+ },
  "philosophize-this|a2f3a268-dead-11ee-b45c-138aa459515a": {
   "at": "2026-11-03T10:57:56.184548+00:00",
   "by": "keywords",
@@ -839,6 +855,14 @@
   "title": "What the Puck? | 11",
   "verdict": "air"
  },
+ "selected-shorts|1852c5e6-6421-4866-a46a-aed8011055fc": {
+  "at": "2026-11-18T21:56:34.464453+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Host Meg Wolitzer Talks to Comedian Michael Ian Black",
+  "verdict": "air"
+ },
  "selected-shorts|1a362156-c9de-41de-98a0-a42ea3145f81": {
   "at": "2026-11-14T21:41:49.110119+00:00",
   "by": "keywords",
@@ -983,6 +1007,14 @@
   "title": "ShopNotes Podcast E290: We Have To Have Turbulence",
   "verdict": "air"
  },
+ "shopnotes-podcast|ccd6c122-a852-11ef-9c3e-573167bb747c": {
+  "at": "2026-11-18T21:56:34.464453+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "ShopNotes Podcast",
+  "title": "ShopNotes Podcast E214: Double Router All the Way Across the Sky",
+  "verdict": "air"
+ },
  "small-town-murder|fd151e94-7bcb-42b9-9571-ff5c77882be2": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -1029,6 +1061,14 @@
   "reason": "clean",
   "show": "SmartLess",
   "title": "\"RE-RELEASE: Reese Witherspoon\"",
+  "verdict": "air"
+ },
+ "smartless|a081e902-1bfb-4729-b790-65cc4f2a1ad8": {
+  "at": "2026-11-18T21:56:34.464453+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Beastie Boys\"",
   "verdict": "air"
  },
  "smartless|af235812-427d-4250-8c61-bc9debe217e6": {
