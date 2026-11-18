@@ -79,6 +79,14 @@
   "title": "100 Objects #23: Coin From the Ship of Gold",
   "verdict": "air"
  },
+ "anatomy-of-murder|e9efdea5-b1d2-470c-a146-435d4dd86925": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Anatomy of Murder",
+  "title": "Lay Your Head to Rest (Timothy Bell)",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634123.mp3": {
   "at": "2026-11-07T21:41:37.696310+00:00",
   "by": "keywords",
@@ -213,6 +221,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_78-10-20_(0908)_The Outside Girl",
+  "verdict": "air"
+ },
+ "cocaine-rhinestones-the-history-of-country-music|1a04bcf0-c99a-42e7-8d77-474aa6afad82": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Cocaine & Rhinestones: The History of Country Music",
+  "title": "CR024/PH10 - Stand by Your Man: The Anti-Feminist Manifesto",
   "verdict": "air"
  },
  "cocaine-rhinestones-the-history-of-country-music|http://cocaineandrhinestones.com/?p=30": {
@@ -743,6 +759,14 @@
   "title": "How bodegas led to the Yemeni coffeehouse explosion",
   "verdict": "air"
  },
+ "planet-money|74bdb425-023b-4ef5-b70d-e3405c832b87": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "Two ways big bets on data centers might affect you (Two Indicators)",
+  "verdict": "air"
+ },
  "planet-money|8fb00e7a-27bd-495a-a410-b6b0b2a1f075": {
   "at": "2026-11-10T10:56:10.969535+00:00",
   "by": "keywords",
@@ -1239,12 +1263,28 @@
   "title": "Most Replayed Moment: Why You Need A Prenup And How To Avoid Divorce!",
   "verdict": "air"
  },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M4BH7NBHMF5N7XTD55NJQGSG": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "Most Replayed Moment: The Childhood Scripts Still Running Your Life! Chase Hughes",
+  "verdict": "air"
+ },
  "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M5XRNCEJK9HGGCQQ268PCK6T": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
   "reason": "mentions democrats, midterms, trump, woke",
   "show": "The Diary Of A CEO with Steven Bartlett",
   "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
+  "verdict": "bounce"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M765ZSNB27M9KYEYV98QHT3M": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "mentions trump",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "Ex-CIA Officer: Trump Knew About The China Spy And Didn't Care! | John Kiriakou & Aliia Roza",
   "verdict": "bounce"
  },
  "the-journal|72853ebc-d89b-11f1-b8d4-ef1a71586f64": {
@@ -1317,6 +1357,14 @@
   "reason": "clean",
   "show": "The Mortise & Tenon Podcast",
   "title": "71 – Finding Balance",
+  "verdict": "air"
+ },
+ "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2079847512": {
+  "at": "2026-11-18T11:08:49.337486+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Mortise & Tenon Podcast",
+  "title": "73 – The Tenth Anniversary Issue",
   "verdict": "air"
  },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/2224146275": {
