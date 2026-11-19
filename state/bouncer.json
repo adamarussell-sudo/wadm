@@ -303,6 +303,14 @@
   "title": "Olivia Colman",
   "verdict": "air"
  },
+ "conan-o-brien-needs-a-friend|af313069-c600-42ff-abb6-da697f412f65": {
+  "at": "2026-11-19T11:06:34.957516+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "Staff Review With Sarah Federowicz",
+  "verdict": "air"
+ },
  "conan-o-brien-needs-a-friend|c2226f56-3689-4ebd-bf86-653e6f9dfecb": {
   "at": "2026-11-06T11:05:55.458070+00:00",
   "by": "keywords",
@@ -517,6 +525,14 @@
   "reason": "clean",
   "show": "Myths and Legends",
   "title": "447: Medieval Knights: Bevis and Butting Heads",
+  "verdict": "air"
+ },
+ "myths-and-legends|audioboom-01a1eb32-1dd9-71ab-9140-260e62663003": {
+  "at": "2026-11-19T11:06:34.957516+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Myths and Legends",
+  "title": "448: Japanese mythology: The Rager",
   "verdict": "air"
  },
  "myths-and-legends|e88c553c3b33a9218066644f0c004a41": {
@@ -735,6 +751,14 @@
   "title": "Their BIGGEST Mistakes: Canon, Nikon, Sony, Panasonic & Olympus",
   "verdict": "air"
  },
+ "picture-this-photography-podcast|af17f9d9-4be6-4ab9-9159-9eefc9f0b3c0": {
+  "at": "2026-11-19T11:06:34.957516+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "Is the BEST Camera EVER coming soon?",
+  "verdict": "air"
+ },
  "picture-this-photography-podcast|c466c875-6290-487f-bba4-483ee1577cb1": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
@@ -789,6 +813,14 @@
   "reason": "clean",
   "show": "Planet Money",
   "title": "A new experiment in remote work … from the inside",
+  "verdict": "air"
+ },
+ "planet-money|983074bc-4838-4958-b6a7-6b32d755c4ad": {
+  "at": "2026-11-19T11:06:34.957516+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "The Chicken Tax (Classic)",
   "verdict": "air"
  },
  "planet-money|d7ae601b-8465-47f2-835c-21fba48f631d": {
@@ -1077,6 +1109,14 @@
   "reason": "clean",
   "show": "SmartLess",
   "title": "\"Ray Winstone\"",
+  "verdict": "air"
+ },
+ "smartless|e9234a2b-db43-41e7-a7be-3934f6a0bf0b": {
+  "at": "2026-11-19T11:06:34.957516+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Jason Sudeikis – LIVE at The Hollywood Bowl\"",
   "verdict": "air"
  },
  "smartless|ef2ac01d-92e4-499c-979f-940937ebcde1": {
