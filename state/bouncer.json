@@ -127,6 +127,14 @@
   "title": "Ep0382 | \"Lamps of the Devil\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634993.mp3": {
+  "at": "2026-11-19T21:55:18.477913+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0281 | \"The Executioner\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/635010.mp3": {
   "at": "2026-11-09T21:52:53.349527+00:00",
   "by": "keywords",
@@ -575,6 +583,14 @@
   "title": "Why Your Relationships Need More Leadership and Less Control | ASK ME ANYTHING",
   "verdict": "air"
  },
+ "overdue|gid://art19-episode-locator/V0/9Cv95F1l11R9aS1edbhdsHSUhObuF6PgEvQJWUSCgDM": {
+  "at": "2026-11-19T21:55:18.477913+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Overdue",
+  "title": "Ep 465 - On a Pale Horse (Incarnations of Immortality #1), by Piers Anthony",
+  "verdict": "air"
+ },
  "overdue|gid://art19-episode-locator/V0/AC34WKxPaGvVgfs83FjrkK33FV1ApRozfyVL_GoEBSo": {
   "at": "2026-11-06T11:05:55.458070+00:00",
   "by": "keywords",
@@ -701,6 +717,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #197 ... New Atheists and cosmic purpose without God - (Zizek, Goff, Nagel)",
+  "verdict": "air"
+ },
+ "philosophize-this|c0e230e4-39fa-4cca-9872-add2e4795f57": {
+  "at": "2026-11-19T21:55:18.477913+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #184 ... Is Artificial Intelligence really an existential risk?",
   "verdict": "air"
  },
  "picture-this-photography-podcast|1255978d-fbe4-469a-9096-ab1f5f4eac62": {
@@ -1207,6 +1231,14 @@
   "title": "#2689: Miles Per Geek",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|241b752e-4d89-4655-b9c1-b50700b00010": {
+  "at": "2026-11-19T21:55:18.477913+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Demons - Best of Coast to Coast AM - 11/18/26",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|316a6667-c1f6-4406-883f-b50100b1ca7b": {
   "at": "2026-11-13T21:51:57.590521+00:00",
   "by": "keywords",
@@ -1293,6 +1325,14 @@
   "reason": "clean",
   "show": "The Book Club | PragerU",
   "title": "Sir Niall Ferguson: War and Peace by Leo Tolstoy | The Book Club",
+  "verdict": "air"
+ },
+ "the-book-club-prageru|daa671ec-dcb9-11f1-b84c-0be0138e1938": {
+  "at": "2026-11-19T21:55:18.477913+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Book Club | PragerU",
+  "title": "Mike Benz: Moby-Dick by Herman Melville | The Book Club | PragerU",
   "verdict": "air"
  },
  "the-cal-newport-show|02638740-ddf7-11f1-85b4-1733203223e9": {
