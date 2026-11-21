@@ -119,6 +119,14 @@
   "title": "Ep1185 | \"The Fatal 50,000\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634129.mp3": {
+  "at": "2026-11-21T21:46:05.493256+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep1191 | \"The Man of Two Centuries\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -317,6 +325,14 @@
   "reason": "clean",
   "show": "Conan O'Brien Needs A Friend",
   "title": "Taps with Andy Richter",
+  "verdict": "air"
+ },
+ "conan-o-brien-needs-a-friend|1d5bdd07-fddb-4280-9a23-ab870009297f": {
+  "at": "2026-11-21T21:46:05.493256+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Conan O'Brien Needs A Friend",
+  "title": "Whitney Cummings",
   "verdict": "air"
  },
  "conan-o-brien-needs-a-friend|6883121c-600f-472d-bf83-e5546d28da05": {
@@ -983,6 +999,14 @@
   "title": "Sawbones: Medicare and Medicaid",
   "verdict": "air"
  },
+ "scamtown|gid://art19-episode-locator/V0/KBg7eP2VQ1PTd-wgXRpCUDN9NpxBDtRh3wswUACJdNU": {
+  "at": "2026-11-21T21:46:05.493256+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Scamtown",
+  "title": "The Book Thief | 9",
+  "verdict": "air"
+ },
  "scamtown|gid://art19-episode-locator/V0/bYJ0OavkWf5_ILf0nO8yDyeJ4598lDF6XgVd2GSZGOc": {
   "at": "2026-11-04T21:52:38.526490+00:00",
   "by": "keywords",
@@ -1343,6 +1367,14 @@
   "title": "#2689: Miles Per Geek",
   "verdict": "air"
  },
+ "the-best-of-car-talk|de8caa0d-8012-4ced-98f8-29d7637e0e23": {
+  "at": "2026-11-21T21:46:05.493256+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Car Talk",
+  "title": "#2693: Some Cars Can't Be Sold",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|241b752e-4d89-4655-b9c1-b50700b00010": {
   "at": "2026-11-19T21:55:18.477913+00:00",
   "by": "keywords",
@@ -1389,6 +1421,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Egyptian Pyramids - Best of Coast to Coast AM - 11/3/26",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|bc485b0b-ee20-4000-b0a3-b50900ad0e1c": {
+  "at": "2026-11-21T21:46:05.493256+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "The Strange - Best of Coast to Coast AM - 11/20/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|d169b35e-994c-433a-8294-b4fa00fd5123": {
