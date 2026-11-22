@@ -55,6 +55,14 @@
   "feed": "https://feeds.simplecast.com/dHoohVNH",
   "name": "Conan O’Brien Needs A Friend"
  },
+ "crime-junkie": {
+  "apple_id": 1322200189,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/600x600bb.jpg",
+  "artist": "Audiochuck",
+  "checked": "2026-11-22T10:51:54.949688+00:00",
+  "feed": "https://feeds.simplecast.com/qm_9xx0g",
+  "name": "Crime Junkie"
+ },
  "everyday-woodworking": {
   "apple_id": 1549789559,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e2/0d/07/e20d0754-a254-9eab-9fe5-01ff43f06401/mza_11849502499143458840.jpg/600x600bb.jpg",
