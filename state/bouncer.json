@@ -95,6 +95,14 @@
   "title": "Zone Zero",
   "verdict": "air"
  },
+ "99-invisible|71238b32-5ba6-4fa3-8a7a-9ebc7775d633": {
+  "at": "2026-11-22T21:49:27.214894+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "99% Invisible",
+  "title": "100 Objects #25: Beaded Moccasin",
+  "verdict": "air"
+ },
  "99-invisible|816164d8-b92d-49ed-924e-95dc25b71046": {
   "at": "2026-11-07T10:46:25.276128+00:00",
   "by": "keywords",
@@ -261,6 +269,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater",
   "title": "CBS Radio Mystery Theater_77-06-16_(0666)_Little Lucys Lethal Libation",
+  "verdict": "air"
+ },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39978353": {
+  "at": "2026-11-22T21:49:27.214894+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_78-01-27_(0772)_The Defectors",
   "verdict": "air"
  },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39978515": {
@@ -645,6 +661,14 @@
   "reason": "clean",
   "show": "Order of Man",
   "title": "Do You Ever Feel Called to Do More? | FRIDAY FIELD NOTES",
+  "verdict": "air"
+ },
+ "order-of-man|67bd00bd-8e46-416a-8a53-7c7fe3e8f651": {
+  "at": "2026-11-22T21:49:27.214894+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Order of Man",
+  "title": "First Holiday After Divorce, Kids and Quitting, and Overcoming Gambling | ASK ME ANYTHING",
   "verdict": "air"
  },
  "order-of-man|6d35d9e8-ed1f-4474-b9c2-0b5911021038": {
@@ -1103,6 +1127,14 @@
   "title": "Tell Me More: Kathryn Nicolai",
   "verdict": "air"
  },
+ "selected-shorts|8c24fae6-c7c8-49af-b373-ef522d103ed7": {
+  "at": "2026-11-22T21:49:27.214894+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Tim Curry Performs \"Ziggurat\" by Stephen O'Connor",
+  "verdict": "air"
+ },
  "selected-shorts|9190d595-22d2-48f6-b471-23a0b47d64e4": {
   "at": "2026-11-07T21:41:37.696310+00:00",
   "by": "keywords",
@@ -1445,6 +1477,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Egyptian Pyramids - Best of Coast to Coast AM - 11/3/26",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|b2864cee-9dd2-4c9c-82c0-b50a00b47430": {
+  "at": "2026-11-22T21:49:27.214894+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "Power Of Numbers - Best of Coast to Coast AM - 11/21/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|bc485b0b-ee20-4000-b0a3-b50900ad0e1c": {
