@@ -289,6 +289,14 @@
   "feed": "https://video-api.shdsvc.dowjones.io/api/podcasts/feed/the%20journal",
   "name": "The Journal."
  },
+ "the-magnus-archives": {
+  "apple_id": 1095138637,
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/01/2b/f6/012bf6cf-da73-11a8-4666-d65ad58dcea5/mza_1748774726906212092.jpg/600x600bb.jpg",
+  "artist": "Rusty Quill",
+  "checked": "2026-11-23T21:57:18.572031+00:00",
+  "feed": "https://feeds.acast.com/public/shows/b6085bcd-3542-4a43-b6a8-021e3fd251b8",
+  "name": "The Magnus Archives"
+ },
  "the-mortise-tenon-podcast": {
   "apple_id": 1306454309,
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c1/0d/f7/c10df7d3-860b-9e38-6908-d81bf01218f9/mza_1298549746918786445.jpg/600x600bb.jpg",

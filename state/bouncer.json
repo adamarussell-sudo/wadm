@@ -47,6 +47,14 @@
   "title": "Selena—“Dreaming of You”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|90d9ff92-4e3f-11f1-94d0-d764858b8c3b": {
+  "at": "2026-11-23T21:57:18.572031+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "Shakira — “Hips Don’t Lie”",
+  "verdict": "air"
+ },
  "60-songs-that-explain-the-90s|9f1ee280-e2e5-11f1-9f6e-d31a10f83d56": {
   "at": "2026-11-20T11:07:27.637799+00:00",
   "by": "keywords",
@@ -157,6 +165,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater | Old Time Radio",
   "title": "Ep0623 | \"A Study in Scarlett\"",
+  "verdict": "air"
+ },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634823.mp3": {
+  "at": "2026-11-23T21:57:18.572031+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0511 | \"The Night Shift\"",
   "verdict": "air"
  },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634894.mp3": {
@@ -1127,6 +1143,14 @@
   "title": "Bonus: Meg Wolitzer and Alison Stewart Talk Fiction",
   "verdict": "air"
  },
+ "selected-shorts|72323c74-d302-472b-9e69-aeb400e9d49f": {
+  "at": "2026-11-23T21:57:18.572031+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Bonus: Meg Wolitzer and Mona Eltahawy Talk Being a Dangerous Woman",
+  "verdict": "air"
+ },
  "selected-shorts|856d6f81-f39c-472d-affd-05f862fe7d9c": {
   "at": "2026-11-20T21:53:53.365150+00:00",
   "by": "keywords",
@@ -1397,6 +1421,14 @@
   "reason": "clean",
   "show": "Strong Songs",
   "title": "Pink Floyd: The Dark Side of the Moon",
+  "verdict": "air"
+ },
+ "the-adam-and-dr-drew-show|gid://art19-episode-locator/V0/8CwEXJCnDEGJCAUaq2WqPPeF4dBzAsDgfFFLf-XVp4Y": {
+  "at": "2026-11-23T21:57:18.572031+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Adam and Dr. Drew Show",
+  "title": "Classic #076: Uncircumcised Lounge",
   "verdict": "air"
  },
  "the-adam-and-dr-drew-show|gid://art19-episode-locator/V0/P5ok9innOVB6a8Iym2ogYVUekWduxDLD6JKUKVh4_1E": {
@@ -1726,6 +1758,14 @@
   "show": "The Journal.",
   "title": "What Just Happened to Politics in the South?",
   "verdict": "bounce"
+ },
+ "the-magnus-archives|6b045d912cbb06431290bfe4": {
+  "at": "2026-11-23T21:57:18.572031+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Magnus Archives",
+  "title": "RQ Network Feed Drop – The 100 Handed – Episode One Small Rock",
+  "verdict": "air"
  },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/1025050783": {
   "at": "2026-11-05T11:08:14.064046+00:00",
