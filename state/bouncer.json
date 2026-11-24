@@ -279,6 +279,14 @@
   "title": "CBS Radio Mystery Theater_75-03-20_(0242)_The Doppelganger",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977109": {
+  "at": "2026-11-24T22:02:37.998755+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_75-03-24_(0244)_The Deadly Double",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39977176": {
   "at": "2026-11-12T21:51:50.609776+00:00",
   "by": "keywords",
@@ -847,6 +855,14 @@
   "title": "Episode #212 ... Nietzsche and Critchley on the tragic perspective. (Amor Fati pt. 2)",
   "verdict": "air"
  },
+ "philosophize-this|3e119ec5-ac0b-4499-8ecf-d1983e62e34f": {
+  "at": "2026-11-24T22:02:37.998755+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #158 ... The Creation of Meaning - Nietzsche - The Ascetic Ideal",
+  "verdict": "air"
+ },
  "philosophize-this|56ad5a30-d33a-11ee-bd24-cb605acf7284": {
   "at": "2026-11-12T11:08:01.134415+00:00",
   "by": "keywords",
@@ -1319,6 +1335,14 @@
   "title": "ShopNotes Podcast E214: Double Router All the Way Across the Sky",
   "verdict": "air"
  },
+ "small-town-murder|d25a929b-f95b-421a-825e-e3bce378bd0c": {
+  "at": "2026-11-24T22:02:37.998755+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Small Town Murder",
+  "title": "Bloody Pointless Revenge - Madison, South Dakota",
+  "verdict": "air"
+ },
  "small-town-murder|fd151e94-7bcb-42b9-9571-ff5c77882be2": {
   "at": "2026-11-02T21:45:19.455287+00:00",
   "by": "keywords",
@@ -1455,6 +1479,14 @@
   "title": "Pink Floyd: The Dark Side of the Moon",
   "verdict": "air"
  },
+ "strong-songs|e72ddb7828834301886bb2ae2564b8e5": {
+  "at": "2026-11-24T22:02:37.998755+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Strong Songs",
+  "title": "\"Let It Go\" from Frozen",
+  "verdict": "air"
+ },
  "the-adam-and-dr-drew-show|gid://art19-episode-locator/V0/8CwEXJCnDEGJCAUaq2WqPPeF4dBzAsDgfFFLf-XVp4Y": {
   "at": "2026-11-23T21:57:18.572031+00:00",
   "by": "keywords",
@@ -1581,6 +1613,14 @@
   "reason": "clean",
   "show": "The Best of Coast to Coast AM",
   "title": "Divine Intervention - Best of Coast to Coast AM - 11/2/26",
+  "verdict": "air"
+ },
+ "the-best-of-coast-to-coast-am|789f389d-e027-47c7-9426-b50c00b2fd47": {
+  "at": "2026-11-24T22:02:37.998755+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "The Brain - Best of Coast to Coast AM - 11/23/26",
   "verdict": "air"
  },
  "the-best-of-coast-to-coast-am|85213d95-7bb4-4463-85da-b4f800ae7ff2": {
