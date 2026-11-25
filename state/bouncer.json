@@ -191,6 +191,14 @@
   "title": "Ep0382 | \"Lamps of the Devil\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634917.mp3": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0405 | \"Sagamore Cottage\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634993.mp3": {
   "at": "2026-11-19T21:55:18.477913+00:00",
   "by": "keywords",
@@ -581,6 +589,14 @@
   "reason": "clean",
   "show": "Freakonomics Radio",
   "title": "262. This Is Your Brain on Podcasts",
+  "verdict": "air"
+ },
+ "hit-parade|1000672758688": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Hit Parade",
+  "title": "With or Without U2 Edition Part 1",
   "verdict": "air"
  },
  "hit-parade|1000798943776": {
@@ -1247,6 +1263,14 @@
   "title": "Bonus: A Conversation with Elizabeth Strout",
   "verdict": "air"
  },
+ "selected-shorts|a81ff2f9-67c7-4109-8461-423588cf461f": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Meg Wolitzer interviews Louise Erdrich",
+  "verdict": "air"
+ },
  "selected-shorts|b398dbf3-693f-4c80-9739-8c7055cc6b00": {
   "at": "2026-11-15T10:49:28.079082+00:00",
   "by": "keywords",
@@ -1325,6 +1349,14 @@
   "reason": "clean",
   "show": "ShopNotes Podcast",
   "title": "ShopNotes Podcast E292: Church Shoe->Shop Shoe->Mowing Shoe",
+  "verdict": "air"
+ },
+ "shopnotes-podcast|9bb426b4-e36c-11f1-8435-23fd99350b33": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "ShopNotes Podcast",
+  "title": "ShopNotes Podcast E293: Personality: ACTIVATED",
   "verdict": "air"
  },
  "shopnotes-podcast|bdc52650-d24a-11f1-b647-ff0ad18c11cd": {
@@ -1775,6 +1807,14 @@
   "title": "Can We Escape Our Internet Hell?",
   "verdict": "air"
  },
+ "the-diary-of-a-ceo-with-steven-bartlett|Buzzsprout-971745": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "E26: Johann Hari - We Have Lost our Connections",
+  "verdict": "air"
+ },
  "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M4BFEBPEK1CKAKZ2BYPSHPK1": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
@@ -1805,6 +1845,22 @@
   "reason": "mentions democrats, midterms, trump, woke",
   "show": "The Diary Of A CEO with Steven Bartlett",
   "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
+  "verdict": "bounce"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M6ZMGD93HSQPW18CPDQCPKWB": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "mentions midterms, trump",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "Are We Living Through The Biggest AI Bubble In History? | Steve Eisman",
+  "verdict": "bounce"
+ },
+ "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M719PD9WR55Y9X87NSQTFMXH": {
+  "at": "2026-11-25T22:01:10.770874+00:00",
+  "by": "keywords",
+  "reason": "mentions democrats, midterms, trump",
+  "show": "The Diary Of A CEO with Steven Bartlett",
+  "title": "Senator Bernie Sanders: Iran Wasn't Trump's Idea. Someone Else Pushed Him Into It!",
   "verdict": "bounce"
  },
  "the-diary-of-a-ceo-with-steven-bartlett|flightcast:01M765ZSNB27M9KYEYV98QHT3M": {
