@@ -663,6 +663,14 @@
   "title": "The Battle of Antietam",
   "verdict": "air"
  },
+ "in-our-time|urn:bbc:podcast:m0033g1x": {
+  "at": "2026-11-26T11:03:24.629071+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "In Our Time",
+  "title": "Immune cells",
+  "verdict": "air"
+ },
  "in-our-time|urn:bbc:podcast:p0pdpszb": {
   "at": "2026-11-02T11:02:52.878475+00:00",
   "by": "keywords",
@@ -997,6 +1005,14 @@
   "reason": "clean",
   "show": "Picture This: Photography Podcast",
   "title": "My Camera NEEDS a LOCK!",
+  "verdict": "air"
+ },
+ "picture-this-photography-podcast|a30a2b1b-81e5-4c28-a5a6-aab336db3df1": {
+  "at": "2026-11-26T11:03:24.629071+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "Wildlife Photography Tips YOU NEED",
   "verdict": "air"
  },
  "picture-this-photography-podcast|a5e9b82e-c25e-4255-a143-4887b87d8638": {
@@ -1487,6 +1503,14 @@
   "title": "\"Linda Cardellini\"",
   "verdict": "air"
  },
+ "smartless|f2bcbddb-bc12-46df-aa6a-db3b30b1d783": {
+  "at": "2026-11-26T11:03:24.629071+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "SmartLess",
+  "title": "\"Jon Bernthal\"",
+  "verdict": "air"
+ },
  "smartless|gid://art19-episode-locator/V0/3XmPv9q3dPrML8rI4y2DzwdCNObplQDsYemUVuCkIUQ": {
   "at": "2026-11-11T11:04:02.336206+00:00",
   "by": "keywords",
@@ -1807,6 +1831,14 @@
   "title": "Can We Escape Our Internet Hell?",
   "verdict": "air"
  },
+ "the-cal-newport-show|fec5d0de-e693-11f1-98ac-9fc526b6aa58": {
+  "at": "2026-11-26T11:03:24.629071+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Cal Newport Show",
+  "title": "Forget Discipline. You Need Better Systems.",
+  "verdict": "air"
+ },
  "the-diary-of-a-ceo-with-steven-bartlett|Buzzsprout-971745": {
   "at": "2026-11-25T22:01:10.770874+00:00",
   "by": "keywords",
@@ -1933,6 +1965,14 @@
   "reason": "clean",
   "show": "The Mortise & Tenon Podcast",
   "title": "26 – How Many Tools Do We Really Need?",
+  "verdict": "air"
+ },
+ "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/1221909820": {
+  "at": "2026-11-26T11:03:24.629071+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Mortise & Tenon Podcast",
+  "title": "40 – Defining “Craftsmanship”",
   "verdict": "air"
  },
  "the-mortise-tenon-podcast|tag:soundcloud,2010:tracks/1234574089": {
