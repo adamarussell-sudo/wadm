@@ -127,6 +127,14 @@
   "title": "100 Objects #23: Coin From the Ship of Gold",
   "verdict": "air"
  },
+ "anatomy-of-murder|b5c1f8b9-8c41-4196-b263-3ebf13f539c6": {
+  "at": "2026-11-26T21:59:45.389417+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Anatomy of Murder",
+  "title": "Chasing Ghosts (Linda Marie Thies)",
+  "verdict": "air"
+ },
  "anatomy-of-murder|e9efdea5-b1d2-470c-a146-435d4dd86925": {
   "at": "2026-11-18T11:08:49.337486+00:00",
   "by": "keywords",
@@ -237,6 +245,14 @@
   "reason": "clean",
   "show": "CBS Radio Mystery Theater | Old Time Radio",
   "title": "Ep0010 | \"The Resident\"",
+  "verdict": "air"
+ },
+ "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39952319": {
+  "at": "2026-11-26T21:59:45.389417+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater",
+  "title": "CBS Radio Mystery Theater_74-04-18_(0077)_A Portrait Of Death",
   "verdict": "air"
  },
  "cbs-radio-mystery-theater|https://api.spreaker.com/episode/39956085": {
@@ -893,6 +909,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #158 ... The Creation of Meaning - Nietzsche - The Ascetic Ideal",
+  "verdict": "air"
+ },
+ "philosophize-this|415d869f62ea0cf5d54379450d7cb0e5": {
+  "at": "2026-11-26T21:59:45.389417+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #047 ... Rousseau pt. 3 - The General Will",
   "verdict": "air"
  },
  "philosophize-this|56ad5a30-d33a-11ee-bd24-cb605acf7284": {
@@ -1679,6 +1703,14 @@
   "title": "Roswell - Best of Coast to Coast AM - 11/10/26",
   "verdict": "air"
  },
+ "the-best-of-coast-to-coast-am|38656551-666b-463a-8ab4-b50e00adf50d": {
+  "at": "2026-11-26T21:59:45.389417+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "The Best of Coast to Coast AM",
+  "title": "The Age of Aquarius - Best of Coast to Coast AM - 11/25/26",
+  "verdict": "air"
+ },
  "the-best-of-coast-to-coast-am|4459d329-0a76-4179-a281-b4fd00b59cc0": {
   "at": "2026-11-09T21:52:53.349527+00:00",
   "by": "keywords",
@@ -2181,6 +2213,14 @@
   "reason": "clean",
   "show": "Wood Talk | Woodworking",
   "title": "Can AI Change How Woodworkers Design Furniture? | WT618",
+  "verdict": "air"
+ },
+ "wood-talk-woodworking|6afdc990a057dc83f03e7a3c": {
+  "at": "2026-11-26T21:59:45.389417+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Wood Talk | Woodworking",
+  "title": "Bandsaw Blade Rules and Wives' Tales | WT619",
   "verdict": "air"
  },
  "wood-talk-woodworking|http://archive.org/download/wt101-wt200/WT_195.mp3": {
