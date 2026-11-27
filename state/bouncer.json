@@ -167,6 +167,14 @@
   "title": "Ep1191 | \"The Man of Two Centuries\"",
   "verdict": "air"
  },
+ "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634549.mp3": {
+  "at": "2026-11-27T22:00:27.852832+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "CBS Radio Mystery Theater | Old Time Radio",
+  "title": "Ep0837 | \"The Girl He Left Behind\"",
+  "verdict": "air"
+ },
  "cbs-radio-mystery-theater-old-time-radio|https://justcast.herokuapp.com/shows/cbs/audioposts/634564.mp3": {
   "at": "2026-11-01T21:40:38.438238+00:00",
   "by": "keywords",
@@ -735,6 +743,14 @@
   "title": "299-Korean Folklore: Long Con",
   "verdict": "air"
  },
+ "myths-and-legends|5079063a96cd7e6bbda284a9055d9095": {
+  "at": "2026-11-27T22:00:27.852832+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Myths and Legends",
+  "title": "69-Midas: You Got the Touch",
+  "verdict": "air"
+ },
  "myths-and-legends|audioboom-01a1a31b-5495-7676-8de6-fa456183d799": {
   "at": "2026-11-05T21:51:43.918012+00:00",
   "by": "keywords",
@@ -967,6 +983,14 @@
   "title": "Episode #024 ... Montaigne",
   "verdict": "air"
  },
+ "philosophize-this|9fe35e3373864838aa40b4a29caed2e7": {
+  "at": "2026-11-27T22:00:27.852832+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Philosophize This!",
+  "title": "Episode #125 ... Gilles Deleuze pt. 1 - What is Philosophy?",
+  "verdict": "air"
+ },
  "philosophize-this|a23e8bacb35a00316ecb457931c889a6": {
   "at": "2026-11-18T21:56:34.464453+00:00",
   "by": "keywords",
@@ -989,6 +1013,14 @@
   "reason": "clean",
   "show": "Philosophize This!",
   "title": "Episode #184 ... Is Artificial Intelligence really an existential risk?",
+  "verdict": "air"
+ },
+ "picture-this-photography-podcast|0ef889e1-7fe3-480e-9a3b-46cfdf37111c": {
+  "at": "2026-11-27T22:00:27.852832+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Picture This: Photography Podcast",
+  "title": "Your Photos NEED HELP!",
   "verdict": "air"
  },
  "picture-this-photography-podcast|1255978d-fbe4-469a-9096-ab1f5f4eac62": {
@@ -1349,6 +1381,14 @@
   "reason": "clean",
   "show": "Selected Shorts",
   "title": "Too Hot For Radio: Ottessa Moshfegh \"The Weirdos\"",
+  "verdict": "air"
+ },
+ "selected-shorts|d218d338-1ee5-4e0b-8acf-41e70e595779": {
+  "at": "2026-11-27T22:00:27.852832+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Selected Shorts",
+  "title": "Grass is Greener",
   "verdict": "air"
  },
  "selected-shorts|d5f604d5-32b6-42ce-8b2d-ea29bbd9689a": {
