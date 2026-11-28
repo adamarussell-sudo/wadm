@@ -55,6 +55,14 @@
   "title": "Spoon — “The Underdog”",
   "verdict": "air"
  },
+ "60-songs-that-explain-the-90s|8e818ade-c1ea-11f1-847a-c34b798d4c6e": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "60 Songs That Explain the '90s",
+  "title": "Black Eyed Peas — “I Gotta Feeling”",
+  "verdict": "air"
+ },
  "60-songs-that-explain-the-90s|8f4d0d86-d70b-11ec-aff8-e3d1323fe09e": {
   "at": "2026-11-13T11:04:07.464434+00:00",
   "by": "keywords",
@@ -751,6 +759,14 @@
   "title": "69-Midas: You Got the Touch",
   "verdict": "air"
  },
+ "myths-and-legends|7c8e92ba-0b16-4bcb-b205-aebc0055fa88": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Myths and Legends",
+  "title": "276-Swiss Horror: Along Came a Spider",
+  "verdict": "air"
+ },
  "myths-and-legends|audioboom-01a1a31b-5495-7676-8de6-fa456183d799": {
   "at": "2026-11-05T21:51:43.918012+00:00",
   "by": "keywords",
@@ -773,6 +789,14 @@
   "reason": "clean",
   "show": "Myths and Legends",
   "title": "87-Werewolves: The Lost",
+  "verdict": "air"
+ },
+ "order-of-man|0824c3a3-23bf-4971-91ba-50ce2b00d56a": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Order of Man",
+  "title": "Why You Need to be Grateful | FRIDAY FIELD NOTES",
   "verdict": "air"
  },
  "order-of-man|178e8526-14ed-4074-9611-cbdd67b465eb": {
@@ -1173,6 +1197,14 @@
   "reason": "clean",
   "show": "Planet Money",
   "title": "How to steal a truckload of bourbon and not get caught",
+  "verdict": "air"
+ },
+ "planet-money|c1a4114a-d661-4e44-8e4b-6f0c0833878c": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "Planet Money",
+  "title": "The economics of podcasting and NPR+",
   "verdict": "air"
  },
  "planet-money|d7ae601b-8465-47f2-835c-21fba48f631d": {
@@ -2198,6 +2230,22 @@
   "show": "TRIGGERnometry",
   "title": "We Taught Them to Hate Our Country - Katharine Birbalsingh",
   "verdict": "bounce"
+ },
+ "triggernometry|64d95854-ea69-11f1-a7c8-abeeb90d3d1e": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "mentions immigration, politics",
+  "show": "TRIGGERnometry",
+  "title": "They're Taking Us Back into the EU! - Off the Fence",
+  "verdict": "bounce"
+ },
+ "triggernometry|7e9d085e-e81a-11f1-b889-7fe9c244293b": {
+  "at": "2026-11-28T10:55:32.412352+00:00",
+  "by": "keywords",
+  "reason": "clean",
+  "show": "TRIGGERnometry",
+  "title": "“I’m a Woman - Let Me Play in the WNBA!” - Basketball Star Enes Kanter",
+  "verdict": "air"
  },
  "triggernometry|91c88b02-d491-11f1-935f-7b0ef5bc20f1": {
   "at": "2026-11-04T21:52:38.526490+00:00",
